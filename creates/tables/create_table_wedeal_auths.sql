@@ -1,0 +1,15 @@
+USE wedeal;
+GO
+IF OBJECT_ID(N'dbo.auths') IS NOT NULL
+BEGIN
+	DROP TABLE wedeal.dbo.auths;
+END
+GO
+CREATE TABLE dbo.auths
+(
+	id INT NOT NULL IDENTITY(1,1),
+	id_user INT NOT NULL,
+	CONSTRAINT PK_AUTHS_ID PRIMARY KEY(id),
+	CONSTRAINT FK_AUTHS_ID_USER FOREIGN KEY(id_user) REFERENCES wedeal.dbo.users(id),
+);
+GO

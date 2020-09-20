@@ -1,0 +1,14 @@
+USE wedeal;
+GO
+IF OBJECT_ID(N'dbo.countries') IS NOT NULL
+BEGIN
+	DROP TABLE wedeal.dbo.countries;
+END
+GO
+CREATE TABLE dbo.countries
+(
+	id INT NOT NULL IDENTITY(1,1),
+	name VARCHAR(15) NOT NULL DEFAULT '',
+	CONSTRAINT PK_COUNTRIES_ID PRIMARY KEY(id),
+);
+GO

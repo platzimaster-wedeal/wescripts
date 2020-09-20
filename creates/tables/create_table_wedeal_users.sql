@@ -1,0 +1,21 @@
+USE wedeal;
+GO
+IF OBJECT_ID(N'dbo.users') IS NOT NULL
+BEGIN
+	DROP TABLE wedeal.dbo.users;
+END
+GO
+CREATE TABLE dbo.users
+(
+	id INT NOT NULL IDENTITY(1,1),
+	first_name VARCHAR(20) NOT NULL DEFAULT '',
+	last_name VARCHAR(20) NOT NULL DEFAULT '',
+	email VARCHAR(254) NOT NULL DEFAULT '',
+	password VARCHAR(64) NOT NULL DEFAULT 'password123',
+	telephone VARCHAR(15) NOT NULL DEFAULT '',
+	id_city INT NOT NULL,
+	avatar VARCHAR(50) NOT NULL DEFAULT 'blank_avatar'
+	CONSTRAINT PK_USERS_ID PRIMARY KEY(id),
+	CONSTRAINT FK_USERS_ID_CITY FOREIGN KEY(id_city) REFERENCES wedeal.dbo.cities(id),
+);
+GO
