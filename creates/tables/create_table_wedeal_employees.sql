@@ -10,6 +10,7 @@ CREATE TABLE [dbo].[employees](
 	company_name VARCHAR(30) NOT NULL DEFAULT '',
 	university VARCHAR(200) NOT NULL DEFAULT '',
 	skills VARCHAR(300) NOT NULL DEFAULT '',
+	work_experience VARCHAR(300) NOT NULL DEFAULT '',
 	last_job_title VARCHAR(30) NOT NULL DEFAULT '',
 	
  CONSTRAINT [PK_EMPLOYEES_ID] PRIMARY KEY CLUSTERED 
@@ -25,6 +26,3 @@ GO
 
 ALTER TABLE [dbo].[employees] CHECK CONSTRAINT [FK_USERS_ID]
 GO
-
-
-- language
