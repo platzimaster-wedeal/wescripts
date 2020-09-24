@@ -1,0 +1,15 @@
+USE wedeal;
+GO
+IF OBJECT_ID(N'dbo.work_areas') IS NOT NULL
+BEGIN
+	DROP TABLE wedeal.dbo.work_areas;
+END
+GO
+CREATE TABLE dbo.work_areas
+(
+	id INT NOT NULL IDENTITY(1,1),
+	title VARCHAR(50) NOT NULL DEFAULT '',
+	acronym VARCHAR(10) NOT NULL DEFAULT '',
+	CONSTRAINT PK_WORK_AREAS_ID PRIMARY KEY(id),
+);
+GO

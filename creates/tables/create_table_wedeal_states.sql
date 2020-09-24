@@ -1,0 +1,16 @@
+USE wedeal;
+GO
+IF OBJECT_ID(N'dbo.states') IS NOT NULL
+BEGIN
+	DROP TABLE wedeal.dbo.states;
+END
+GO
+CREATE TABLE dbo.states
+(
+	id INT NOT NULL IDENTITY(1,1),
+	name VARCHAR(15) NOT NULL DEFAULT '',
+	id_country INT NOT NULL,
+	CONSTRAINT PK_STATES_ID PRIMARY KEY(id),
+	CONSTRAINT FK_STATES_ID_COUNTRY FOREIGN KEY(id_country) REFERENCES wedeal.dbo.countries(id),
+);
+GO
