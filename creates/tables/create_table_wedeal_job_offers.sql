@@ -10,7 +10,7 @@ CREATE TABLE dbo.job_offers
 	id INT NOT NULL IDENTITY(1,1),
 	id_search INT NOT NULL,
 	position VARCHAR(20) NOT NULL DEFAULT '',
-	business_name VARCHAR(20) NOT NULL DEFAULT '',
+	employer_name VARCHAR(20) NOT NULL DEFAULT '',
 	description VARCHAR(MAX) NOT NULL DEFAULT '',
 	requeriments VARCHAR(200) NOT NULL DEFAULT '',
 	modality VARCHAR(15) NOT NULL DEFAULT '',
