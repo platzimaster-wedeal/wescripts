@@ -5,7 +5,6 @@ work_areas
 job_offers
 labor_specialty
 languages
-terms_conditions
 certificates
 users
 auths
@@ -20,3 +19,5 @@ users_certificates
 users_languages
 work_area_jobs
 comments
+experiences
+Postulations
