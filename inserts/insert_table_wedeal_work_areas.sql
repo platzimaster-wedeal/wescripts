@@ -1,17 +1,26 @@
-USE wedeal;
-GO
-IF OBJECT_ID(N'dbo.[auths]') IS NOT NULL
-BEGIN
-	DROP TABLE wedeal.dbo.[auths];
-END
-GO
-CREATE TABLE dbo.[auths]
-(
-	id INT NOT NULL IDENTITY(1,1),
-	id_user INT NOT NULL,
-	[username] VARCHAR(20) NOT NULL UNIQUE,
-	[password] VARCHAR(64) NOT NULL DEFAULT 'E7568F431A357EC0FD4DC7734C54D4EE179F1EBFC387F7F68A6A7E15052A7572',
-	CONSTRAINT PK_AUTHS_ID PRIMARY KEY(id),
-	CONSTRAINT FK_AUTHS_ID_USER FOREIGN KEY(id_user) REFERENCES wedeal.dbo.users(id),
-);
-GO
+INSERT INTO dbo.work_areas (title) VALUES ('HR');
+INSERT INTO dbo.work_areas (title) VALUES ('Designing');
+INSERT INTO dbo.work_areas (title) VALUES ('Managment');
+INSERT INTO dbo.work_areas (title) VALUES ('Information Technology');
+INSERT INTO dbo.work_areas (title) VALUES ('Education');
+INSERT INTO dbo.work_areas (title) VALUES ('Advocate');
+INSERT INTO dbo.work_areas (title) VALUES ('Business Development');
+INSERT INTO dbo.work_areas (title) VALUES ('Health & Fitness');
+INSERT INTO dbo.work_areas (title) VALUES ('Agricultural');
+INSERT INTO dbo.work_areas (title) VALUES ('BPO');
+INSERT INTO dbo.work_areas (title) VALUES ('Sales');
+INSERT INTO dbo.work_areas (title) VALUES ('Consultant');
+INSERT INTO dbo.work_areas (title) VALUES ('Digital Media');
+INSERT INTO dbo.work_areas (title) VALUES ('Building & Construction');
+INSERT INTO dbo.work_areas (title) VALUES ('Automobile');
+INSERT INTO dbo.work_areas (title) VALUES ('Banking');
+INSERT INTO dbo.work_areas (title) VALUES ('Engineering');
+INSERT INTO dbo.work_areas (title) VALUES ('Food & Beverages');
+INSERT INTO dbo.work_areas (title) VALUES ('Finance');
+INSERT INTO dbo.work_areas (title) VALUES ('Apparel');
+INSERT INTO dbo.work_areas (title) VALUES ('Accountant');
+INSERT INTO dbo.work_areas (title) VALUES ('Architects');
+INSERT INTO dbo.work_areas (title) VALUES ('Public Relations');
+INSERT INTO dbo.work_areas (title) VALUES ('Arts');
+INSERT INTO dbo.work_areas (title) VALUES ('Aviation');
+INSERT INTO dbo.work_areas (title) VALUES ('Others');

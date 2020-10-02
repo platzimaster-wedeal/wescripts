@@ -17,6 +17,8 @@ CREATE TABLE dbo.job_offers
 	schedule VARCHAR(30) NOT NULL DEFAULT '',
 	salary_range1 BIGINT NOT NULL DEFAULT 0,
 	salary_range2 BIGINT NOT NULL DEFAULT 0,
+	short_description VARCHAR(150) NOT NULL,
+	long_description VARCHAR(MAX) NOT NULL DEFAULT '',
 	CONSTRAINT PK_JOB_OFFERS_ID PRIMARY KEY(id),
 );
 GO
