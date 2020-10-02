@@ -7,7 +7,7 @@ END
 GO
 CREATE TABLE dbo.users_certificates
 (
-	id INT NOT NULL,
+	id INT NOT NULL IDENTITY(1,1),
 	id_user INT NOT NULL,
 	id_certificate INT NOT NULL,
 	CONSTRAINT PK_USERS_CERTIFICATES_ID PRIMARY KEY(id),

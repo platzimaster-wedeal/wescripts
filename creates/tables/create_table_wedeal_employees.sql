@@ -5,7 +5,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 CREATE TABLE [dbo].[employees](
-	[id] [int] NOT NULL,
+	id INT NOT NULL IDENTITY(1,1),
 	[id_user] [int] NOT NULL,
 	company_name VARCHAR(30) NOT NULL DEFAULT '',
 	university VARCHAR(200) NOT NULL DEFAULT '',

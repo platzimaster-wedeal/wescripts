@@ -7,7 +7,7 @@ END
 GO
 CREATE TABLE dbo.employers_job_offers
 (
-	id INT NOT NULL ,
+	id INT NOT NULL IDENTITY(1,1),
 	id_employer INT NOT NULL,
 	id_job_offer INT NOT NULL,
 	status BIT NOT NULL DEFAULT 1,
