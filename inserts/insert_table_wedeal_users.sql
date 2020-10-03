@@ -1,3 +1,4 @@
+SET DATEFORMAT dmy;
 INSERT INTO dbo.users (user_name, first_name, last_name, date_of_birth, telephone, email, employee, employeer, latitude, longitude, id_work_area, id_city) VALUES ('cbowart0', 'Carlyn', 'Bowart', '23/02/1991', 2999252162, 'cbowart0@rambler.ru', 0, 1, 32.09004, 34.79679, 6,174);
 INSERT INTO dbo.users (user_name, first_name, last_name, date_of_birth, telephone, email, employee, employeer, latitude, longitude, id_work_area, id_city) VALUES ('akezar1', 'Anetta', 'Kezar', '27/05/1963', 6309049860, 'akezar1@yahoo.co.jp', 0, 1, 32.11614, 34.79464, 18,185);
 INSERT INTO dbo.users (user_name, first_name, last_name, date_of_birth, telephone, email, employee, employeer, latitude, longitude, id_work_area, id_city) VALUES ('vromero2', 'Van', 'Romero', '04/11/1969', 8042069459, 'vromero2@marriott.com', 1, 0, 32.118759999999995, 34.82229, 3,185);

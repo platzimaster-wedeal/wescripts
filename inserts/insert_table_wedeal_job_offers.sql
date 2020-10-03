@@ -1,3 +1,5 @@
+
+SET DATEFORMAT mdy;
 INSERT INTO dbo.job_offers (category, schedule, salary_range1, salary_range2, modality, id_search, short_description, long_description) VALUES ('HR', '03/08/2021', 33.21, 97.59, 'A_distancia', 0, 'modular', 'transition compelling models');
 INSERT INTO dbo.job_offers (category, schedule, salary_range1, salary_range2, modality, id_search, short_description, long_description) VALUES ('HR', '4/29/2021', 41.94, 76.31, 'Precencial', 1, 'Implemented', 'engineer interactive platforms');
 INSERT INTO dbo.job_offers (category, schedule, salary_range1, salary_range2, modality, id_search, short_description, long_description) VALUES ('HR', '09/01/2021', 26.24, 95.85, 'Mixto', 2, 'process improvement', 'generate frictionless deliverables');

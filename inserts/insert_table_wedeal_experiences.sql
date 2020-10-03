@@ -1,2000 +1,1473 @@
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("
-work experience", "Universitas Nusa Cendana", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Adventist University of Africa", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Providence University", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Supérieure de Commerce de Pau", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rutgers, The State University of New Jersey - Newark", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dublin Institute of Technology", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kingston College", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de San José", "Administrative Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National School of Political and Administrative Studies Bucharest", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mansoura University", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kochi University of Technology", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Nizwa", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ashland University", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Steinbeis-Hochschule-Berlin", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade Salvador", "Programmer Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St. John's University", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Nacional Mayor de San Marcos", "Systems Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Columbia Commonwealth University", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gdynia Maritime Academy", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gandhara Institute of Medical Sciences", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tennessee Technological University", "Account Representative IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tama Art University", "Database Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Steinbeis-Hochschule-Berlin", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Saratov State University", "Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Iberoamérica", "Human Resources Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "St. Clair College", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Istanbul Bilgi University", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ashton College", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Sarhad University of Science & Information Technology, Peshawar ", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jai Prakash University", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National University of Science and Technology Bulawayo", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Royal Holloway and Bedford New College", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Sabzevar Teacher Training University", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Baltimore", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Seychelles - American Institute of Medicine", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Sendai University", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Marmara University", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kuwait University", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ch. Charan Singh University", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Americana", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dr. Babasaheb Ambedkar Marathwada Universtiy", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Astrahan State Technical University", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ochanomizu Women's University", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Sotheby´s Institute of Art - London", "Web Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Arizona", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitas Pembangunan Panca Budi", "Automation Specialist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chaopraya University ", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Royal Academy of Music, University of London", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Française d'Égypte", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Central de Nicaragua", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kaohsuing Open University", "Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hokkaido Institute of Technology", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St. Petersburg State University of Waterway Communications", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Medicine and Pharmacy of Timisoara", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Tehran", "Health Coach II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hunan Agricultural University", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Petrosani", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole National d'Agriculture de Meknes", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Higher Institute of Business Administration", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade Tiradentes", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kiev School Of Economics", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mimasaka Women's College", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ruhr-Universität Bochum", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Saint La Salle", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Constanta Medical School", "Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cheyney University of Pennsylvania", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad España de Durango", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fachhochschule JOANNEUM", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Franklin W. Olin College of Engineering", "Account Representative III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vesalius College", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Austin Peay State University", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Orenburg State University", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Health Sciences Antigua", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Transport and Telecommunication Institute", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kazak American University", "Safety Technician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Moscow State Textile University A.N. Kosygin", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Economics in Bratislava", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kettering University (GMI)", "Biostatistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Cambridge College", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Nacional Pedro Henríquez Ureña", "Database Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Épiscopale d'Haiti", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National Taipei College of Nursing", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Instituto Superior de Paços de Brandão", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tehran University of Medical Sciences", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fred Hutchinson Cancer Research Center", "Automation Specialist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université Euro-Afrique", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Georgia Institute of Technology", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technical University of Gdansk", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rajshahi University of Engineering and Technology", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Emory University", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Thiagarajar College of Engineering", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pontifícia Universidade Católica de Minas Gerais", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "DePauw University", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hajvery University Lahore for Women", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Punjab University College of Information Tecnology", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Supérieure de Commerce de Dijon", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Bunkyo", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Peloponnese", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "French University in Armenia (UFAR)", "Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tokushima Bunri University", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rabindra Bharati University", "Programmer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Park College", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lyon College", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Robert Morris College", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aichi Medical University", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National College of Art and Design", "Safety Technician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Cincinnati", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of the Incarnate World", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Juárez Autónoma de Tabasco", "Software Test Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale Supérieure d'Ingénieurs de Génie Chimique", "Health Coach II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Medicine and Pharmacy of Cluj-Napoca", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Southwest Petroleum University", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mu' tah University", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Houston Baptist University", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Ciego de Avila", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "King's College", "Biostatistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kemerovo State University", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technische Fachhochschule Wildau", "Software Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Moscow State Technical University of Civil Aviation", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Sonora", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technological University (Meikhtila)", "Automation Specialist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Bandar Abbas", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Gerona", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "NTB Interstate University of Applied Sciences of Technology", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "West Virginia Wesleyan College", "Computer Systems Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eberhard-Karls-Universität Tübingen", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Benue State University", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Catolica de Temuco", "BudgetAccounting Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Iglobal University", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tashkent School of Finance", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Northern Jiaotong University", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jeonju University", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St.Patrick's International College, London", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Autónoma de Chiapas", "Biostatistician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Chieti", "Accounting Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Samara State University of Economics", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Academia de Humanismo Cristiano", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "SASTRA Deemed University", "Account Representative III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chittagong Independent University", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kyoto City University of Arts", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwararafa University", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "St. Petersburg State Forest-Technical Academy", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dongduk Women's University", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Baker College of Port Huron", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vietnam Maritime University", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Central Luzon State University", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vikrama Simhapuri University", "Biostatistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "The Manchester Metropolitan University", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bluefield College", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Seton Hall University", "Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of North Bengal", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Huazhong Agricultural University", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Richmond University - The American International University in London", "Software Test Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wilmington College", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Plymouth State College", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Palangka Raya", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Education Hradec Kralove", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Bamako", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Oviedo", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tama Art University", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Southern Utah University", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "College for Financial Planning", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Institut National Supérieur de Formation Agro-Alimentaire", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Stevens Institute of Technology", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université du Québec à Trois-Rivières", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Nantes", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Circleville Bible College", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Syktyvkar State University", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gonabad University of Medical Sciences", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tribhuvan University Kathmandu", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lithunian University of Agriculture", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "International College", "Staff Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Lancaster", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Fray Luca Paccioli", "Web Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hope College", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universität Bayreuth", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad NUR", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hamline University", "Accounting Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Punjab Institute of Computer science", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Drzavni Univerzitet u Novom Pazaru", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Karnataka State Open University", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Westminster", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meiji Gakuin University", "Accounting Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Montana", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ege University", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Instituto Superior Politécnico e Universitário", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Emmanuel College Georgia", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Poltava University of Consumer Cooperatives in Ukraine", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Yaoundé II", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "China Academy of Art", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pandit Ravi Shankar Shukla University", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Nawroz University", "Office Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Music Academy in Cracow", "Biostatistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gifu Shotoku Gakuen University", "Human Resources Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Miami", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Tecnológica de los Andes de Apurímac", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Detroit College of Law", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Jan Evangelista Purkyne", "Staff Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "George Wythe College", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Selcuk University", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "British Institute in Paris, University of London", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Czech Technical University of Prague", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bhagwant University", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "New York Academy of Art, Graduate School of Figurative Art", "Office Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Swiss Management Center", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tohoku Gakuin University", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Empresarial", "Human Resources Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Stockholm University", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Internacional de Andalucía", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "UNESCO-IHE Institute for Water Education", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hesser College", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bridgewater College", "Web Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kogi State University", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Adler School of Professional Psychology", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chongqing Technology and Business University", "Safety Technician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of San Francisco", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Politécnica de Cataluna", "Computer Systems Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "St. Petersburg State Polytechnical University", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yunnan Normal University", "Web Designer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bohai University", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mount Kenya University", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kobe University", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Arab American University - Jenin", "Computer Systems Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dutch University Institute for Art History (DUIA)", "Database Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Campbell University", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Massey University", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad del Valle de México", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of NorthWest", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Virtual University of Pakistan", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Capitol College", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lasell College", "Office Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université de Poitiers", "Programmer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Southwest University of Finance and Economics", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shanghai Ocean University", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pontificia Universidad Catolica de Puerto Rico", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Mayor de San Simón", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Nacional de San Juan", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Interamericana de Educacion a Distancia de Panama", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jai Prakash University", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Embry-Riddle Aeronautical University", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Buenos Aires", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cleary College", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Montpellier II", "Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Greenville College", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avinashilingam Institute for Home Science and Higher Education for Women", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ural State Academy of Railway Transport", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidade Candido Mendes", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "James Cook University of North Queensland", "Administrative Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Polytechnic University", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of New England", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad del Turabo", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bastyr University", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "International Centre for Isclamic Science", "Health Coach IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "American University of Middle East", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universität Lüneburg", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Nicaragüense de Ciencia y Tecnológica", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "West Minster International College", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Divine Word College of Legazpi", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oakton Community College", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Institute of Management Sciences, Peshawar", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Autónoma de Bucaramanga", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dubna International University for Nature, Society and Man", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fontbonne College", "Developer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Asia Europe University", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Evangelische Fachhochschule Hannover", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of NorthWest", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Nacional Pedro Ruíz Gallo", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Northern Virginia", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Siliwangi", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rasmussen College", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Française de Papeterie et des Industries Graphiques", "Office Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Institute of Industrial Engineering", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gustavus Adolphus College", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brest State University", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Pesantren Darul Ulum Jombang", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hampden-Sydney College", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fiji National University ", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "West China University of Medical Sciences", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Muhimbili University of Health and Allied Sciences (MUHAS)", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Instituto Politécnico de Coimbra", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Purbanchal University", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", " Dedan Kimathi University of Technology", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Nationale Supérieure de Physique de Marseille", "Research Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Western University", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Redlands", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale Supérieure des Telecommunications de Paris", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Negeri Manado", "Safety Technician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Morris College", "Office Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Academia de Humanismo Cristiano", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen", "Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Instituto Superior de Ciências Empresariais e de Turismo", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hacettepe University", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Mayor", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Auckland", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gdynia Maritime Academy", "Account Representative I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kobe Jogakuin University", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Internationle Akademie für Philosophie", "Biostatistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lahti Polytechnic", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dakota State University", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shizuoka Prefectural University", "Account Representative IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Misan University", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hannibal-Lagrange College", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Intercollege", "Programmer Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Calvary Bible College", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Texas M.D. Anderson Cancer Center", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidade de Passo Fundo", "Office Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Belarussian National Technical University", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Tehran South", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Mesoamericana de San Agustín", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitas Diponegoro", "Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Manizales", "Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Southwest Forestry University", "Programmer Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oman College Of Management & Technology", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Northern Bahr El-Ghazal", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Osmania University", "Programmer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Henan Normal University", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Furman University", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yerevan State Medical University", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "ITT Technical Institute West Covina", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mount Union College", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universiteit Antwerpen, UFSIA", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad La Republica", "Account Representative III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National University of Defense Technology", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Málaga", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fujian Medical University", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mekelle Institute of Technology", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Batangas", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of the Sciences in Philadelphia", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Católica Cecilio Acosta", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade da Amazônia", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vali-e-Asr University", "Computer Systems Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of New Hampshire", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Minamikyushu University", "Software Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Benedictine College", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Andon College - Stockton", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidade Metodista de Angola", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zhongnan University of Technology", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Alabama State University", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Montevallo", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Maritime University Constanta", "Web Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kandahar University", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Botswana College of Agriculture", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Academy of Fine Arts", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oklahoma State University - Institute of Technology", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meiji University", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Maimónides", "Staff Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zhejiang Sci-Tech University ", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rice University", "Automation Specialist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wesley University of Science and Technology", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Lumiére (Lyon II)", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Friedrich-Alexander Universität Erlangen-Nürnberg", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Saad College of Nursing and Allied Health Sciences", "Research Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad ORT Uruguay", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Springfield College", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vilnius Gediminas Technical University", "BudgetAccounting Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of New Brunswick", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad José Maria Vargas", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "State University of New York College at Oneonta", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "John Cabot University", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "College of Busniess Admnistration", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Macerata", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Nationale Supérieure de Chimie de Paris", "Administrative Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fachhochschule Rottenburg, Hochschule für Forstwirtschaft", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Texas Southern University", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Supérieure Internationale d'Administration des Entreprises", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National University of Kiev-Mohyla Academy", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kyushu Tokai University", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Florida Christian College", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Qingdao University of Science and Technology", "Systems Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tokyo University of Agriculture", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Al-Jabal Al-Gharbi University", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Saratov State Agrarian University", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fundação Educacional de Ituverava", "Health Coach I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yan Shan University", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad San Francisco Xavier", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade São Marcos", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Guangzhou Academy of Fine Art", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pädagogische Hochschule Heidelberg", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Aquinas College", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Moscow Institute of Physics and Technology", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tilak Maharashtra Vidyapeeth", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Autónoma de la Laguna", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Loyola University New Orleans", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Northeastern Illinois University", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Amravati University", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ahsanullah University of Science & Technology", "Systems Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Instituto Superior Bissaya Barreto", "Software Test Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "French University in Armenia (UFAR)", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université Thierno Amadou Diallo", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Charisma University", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Penang International Dental College", "Systems Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Poznan University of Life Sciences", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Metropolitana de Honduras", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Nebraska - Omaha", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Matn University", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Ilorin", "Accounting Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ghana Institute of Management and Public Administration (GIMPA)", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic University of Gaza", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National Taiwan College of Arts", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Polytechnic University", "Office Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nelson Mandela Metropolitan University", "Developer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Joseph Ayo Babalola University", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Andrzej Frycz Modrzewski Cracow College", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Independent University, Bangladesh", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ohio University - Zanesville", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tohoku Institute of Technology", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Puerto Rico, Ponce", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "City University of New York, Brooklyn College", "Database Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Nacional Experimental Rafael Maria Baral", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kyushu Tokai University", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Post University of Waterbury", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Amber University", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Clearwater Christian College", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Peace College", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Antioch University Santa Barbara", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nuclear Institute for Agriculture and Biology (NIAB)", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Szczecin", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Torcuato di Tella", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Shalom de Bunia", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Regis College", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Regina", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université Shalom de Bunia", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Murray State University", "Geologist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Sports Academy Sofia", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nagoya University of Arts", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Al-Jabal Al-Gharbi University", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Botswana Accountancy College", "Health Coach I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tuva State University", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Posts & Telecommunications Institute of Technology", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Nirma University", "Software Test Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Education, Winneba", "Automation Specialist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Perdana University", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Grenoble Ecole de Management", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "West Liberty State College", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", " Université de Nouakchott", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Cristóbal Colón", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "James Cook University of North Queensland", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hamilton Technical College", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "St. John's University", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shaheed Beheshti University", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shandong Agricultural University", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Private Hanseuniversität", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mohammad Ali Jinnah University", "Staff Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kenya Methodist University", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "DeVry Institute of Technology, Phoenix", "Biostatistician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Himeji Dokkyo University", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National Technical University of Athens", "Safety Technician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Southwestern Baptist Theological Seminary", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pädagogische Hochschule Freiburg", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jewish University in Moscow", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Uzima University College ", "Web Designer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universität Bayreuth", "Database Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "DeVry Institute of Technology, DuPage", "Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ashkelon Academic College", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Vigo", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oregon State University", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Management and Science University", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Changsha Railway University", "Web Designer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shantou University", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole des Hautes Etudes Commerciales MAROC", "Account Representative I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Internacional Menéndez Pelayo", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université de Béjaia", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shimane University", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Morningside College", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mount Sinai School of Medicine", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Abfi Institute Perbanas Jakarta", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "State University of New York at Buffalo", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ch. Charan Singh University", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kirksville College of Osteopathic Medicine", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitas Jambi", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Korea National University of Physical Education", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Danish University of Education", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Supérieure d'Agriculture de Purpan", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "The Art Institute of Boston", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Al Muthanna University", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kaohsiung Medical College", "Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Kashmir", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St. Francis Medical Center College of Nursing", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chinese Culture University", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University College of Gävle", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ryerson Polytechnic University", "Developer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pedagogical University of Czestochowa", "Health Coach I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Marylhurst University", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Halmstad University College", "Web Developer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Northwest Normal University Lanzhou", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Northeastern Ohio University College of Medicine", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale Supérieure du Pétrole et des Monteurs", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tokyo Metropolitan University of Health Sciences", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Otto-Friedrich Universität Bamberg", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Iran University of Medical Sciences", "Statistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trinity International University (Excel), Miami", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rochester Institute of Technology", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nanjing University of Aeronautics and Astronautics", "Web Designer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Birmingham-Southern College", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Osaka Institute of Technology", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Taiwan University of Science and Technology", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Western Maryland College", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Cheljabinsk State Institute of Teacher Training", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dogus University", "Computer Systems Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Veterinary Medicine in Kosice", "Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Politécnico de Guanajuato", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale Supérieure des Mines de Douai", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Maryland at College Park", "Web Designer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technische Universität Ilmenau", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cag University", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "College for Creative Studies", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hosei University", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National University of Samoa", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Capitol College", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Deutsche Sporthochschule Köln", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Pedagogical University M. Dragomanov ", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Arkansas State University, Newport", "Office Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Supérieure de Commerce de Sophia Antipolis", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Taipei College of Nursing", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shizuoka Sangyo University", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Royal University of Fine Arts", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Education", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dubai Pharmacy College", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Royal University of Law and Economics", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shanxi Agricultural University", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Islamic Azad University, Shahrood", "Research Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitat Jaume I de Castellón", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Academy of Arts George Enescu Iasi", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Birmingham", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chiang Mai Rajabhat University", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dirección General de Institutos Tecnológicos", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mimasaka Women's College", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Maryland Baltimore County", "Account Representative IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technological Education Institute of Lamia", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "College of Science, Baghdad University", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Teesside", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "French University in Armenia (UFAR)", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mary Washington College", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "The Federal Polytechnic Offa", "Research Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Campbell University", "Automation Specialist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Nanjing Agricultural University", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Catholic University of Lublin", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Institucion Universitaria de Envigado", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Bristol", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Julius Nyerere Kankan", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Institut Textile et Chimique de Lyon", "Human Resources Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Alhosn University", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Central Arkansas", "Computer Systems Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Nationale de la Statistique et de l'Administration Economique", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University Transilvany of Brasov", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Taif University", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Manizales", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Southern Illinois University at Edwardsville", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "NED University of Engineering and Technology Karachi", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Upper Nile University", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Nacional Agraria de la Selva", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Politécnico Columbiano Jaime Isaza Cadavid", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Himeji Dokkyo University", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Korea National University of Physical Education", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Mataram", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Institute of Business Administration (IBA)", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hosei University", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Islamic Azad University, Mahshar", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade Federal do Piauí", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tehran University of Medical Sciences", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Puerto Rico, Mayaguez", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kakatiya University", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université d'Artois", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Appalachian Bible College", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Macau", "Biostatistician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Sarajevo", "Safety Technician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pennsylvania State University Delaware County", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Dublin, Trinity College", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feati University", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade de Santo Amaro", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "North East University Bangladesh", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Goldey-Beacom College", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Nuevo Mundo", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nugaal University", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tokai Gakuen University", "Software Test Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Gabès", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Maimónides", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Auburn University at Montgomery", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Northeastern University", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kennesaw State University", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Stratford College London", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of the South Pacific", "Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Moscow State Automobile and Road Technical University", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Xiangtan Normal University", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Koforidua Polytechnic ", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fujian University of Traditional Chinese Medicine", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Awadhesh Pratap Singh University", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Houston", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nicholls State University", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Busitema University", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hamdan Bin Mohammed e-University", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "North Carolina Wesleyan College", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Beppu University", "BudgetAccounting Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shimer College", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Talca", "Automation Specialist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Qinghai Radio & Television University", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pak-AIMS (American Institute of Management Sciences)", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Católica Boliviana, La Paz", "Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "European Humanities University", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National Theatre Conservatory", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Tehran South", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Surugadai University", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Seychelles - American Institute of Medicine", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Evergreen State College", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shaheed Chamran University", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Massachusetts Maritime Academy", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Faculdades Integradas Curitiba", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Foreign Trade University", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Al-Baath University", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pace University", "Systems Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Nizwa", "Safety Technician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Gafsa", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Kristen Petra", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Southwest Missouri State University", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "William Carey College", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "The Kingdom University", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Maryville University of St. Louis", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kobe Women's University", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Changchun University of Technology", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Deaconess College of Nursing", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Josai University", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Finnmark University College", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "SMK Fomra Institute of Technology", "Human Resources Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Nationale Supérieure Agronomique de Toulouse", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of the Punjab", "Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zuyd University", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jönköping University College of Health Sciences", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Concordia University, Portland", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Institut des Sciences de la Matière et du Rayonnement", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pennsylvania State University", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Western Washington University", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Instituto Politécnico Nacional", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Institucion Universitaria de Envigado", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Autónoma de Chihuahua", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kobe Design University", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zarka Private University", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "DIPLOMA-Fachhochschule Ölsnitz/Vogtland", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Córdoba", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Penza State University", "BudgetAccounting Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cambridge College", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Assumption University of Thailand", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oulu Polytechnic", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université de Sherbrooke", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Sambalpur University", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "St. Petersburg State Medical Academy", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "International University of Kyrgyzstan", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Arak University of Medical Sciences", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kuban State University of Technology", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Swiss German University", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Capital University Law School", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Norwegian School of Management BI", "Web Designer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Kota", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale de l'Aviation Civile", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St. Pauls University", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pädagogische Hochschule Zürich (Zurich School of Education)", "Media Manager III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Georgetown College", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Russian State Hydrometeorological University", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad La Salle", "Web Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Karel De Grote Hogeschool", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Sonora", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hazara University", "Geologist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shenyang Polytechnic University", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Colombo", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Atlantic Union College", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Khazar University", "Geologist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "SRH University of Applied Sciences", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Lincoln", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Zimbabwe", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Miguel de Cervantes", "Computer Systems Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Khomeinishahr Payame Noor University", "BudgetAccounting Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "South Florida Bible College & Theological Seminary", "Staff Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kahramanmaras Sütcü Imam University", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Cambridge", "Geologist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St. Petersburg Institute of Sales Management and Economics", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Medical Academy in Wroclaw", "Account Representative III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mindanao State University", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University Tun Abdul Razak", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Knox College", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Wisconsin - Stout", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Australian Catholic University", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Abilene Christian University", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Genoa", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Engineering and Technology Taxila", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Music Academy Karol Szymanowski in Katowice", "Biostatistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lorestan University", "Biostatistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of South Carolina - Union", "Systems Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Nacional de San Cristóbal de Huamanga", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of West Alabama", "Accounting Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas 17 Agustus 1945 Cirebon", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pes University", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "North University of Baia Mare", "Human Resources Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Cristóbal Colón", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hochschule für Technik und Wirtschaft Dresden (FH)", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de Aquino Bolivia", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Intercontinental", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Supérieure d'Informatique et de Management", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hogere Zeevaartschool - Maritime Academy", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Georgetown University", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Puerto Rico, Bayamon", "Account Representative I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kagoshima University", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Sullivan College", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Budget/Accounting Analyst III","Changsha Railway University")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Casa Grande", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nara University of Commerce", "Database Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dunya Institute of Higher Education", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Chlef", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Sheffield", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of North West", "Office Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université Alioune Diop de Bambey", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kazan State University of Technology", "Research Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vaganova Academy of Russian Ballet", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Manipur University", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Sagami Women's University", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Southeastern Philippines", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Instituto Superior de Transportes e Comunicações", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Nacional del Sur", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kyunghee University", "Web Designer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Georgia State University", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chubu University", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hawassa University", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Camosun College", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Albany College of Pharmacy", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kyushu Women's University", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "North China University of Technology", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Uzbek State World Languages University", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de El Salvador", "Geologist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babasaheb Bhimrao Ambedkar University", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Nanhua University", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "French Institute of Management", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Christian Theological Academy in Warszaw", "Office Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hong Kong Polytechnic University", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Southampton", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "The American University in London", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fourah Bay College, University of Sierra Leone", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidade Estadual de Montes Claros", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Veer Surendra Sai University of Technology", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Supérieure d'Ingénieurs en Génie Electrique", "Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pomeranian Academy of Medicine in Szczecin", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Polytechnic of Namibia", "Automation Specialist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rock Valley College", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Escuela Colombiana de Ingeniería Julio Garavito", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vikrama Simhapuri University", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Morgan State University", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Moscow State Academy of Applied Biotechnology", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "State University of New York at Oswego", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Northeastern University", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University “Pavaresia” Vlore", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Advent Indonesia", "Health Coach IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Nordic School of Public Health", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technological Education Institute of Kalamata", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Shahr-e-rey Branch", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ufa State Aviation Technical University", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lampang Rajabhat University", "Systems Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pontificia Università Lateranense", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dominican College of San Rafael", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pázmány Péter Catholic University", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université de Fianarantsoa", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Chongju University", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zonguldak Karaelmas University", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Leyte State University ", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Parsons School of Design", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shri Jagannath Sanskrit University", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de León", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Albright College", "Staff Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "COMSATS Institute of Information Technology, Lahore", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mawlana Bhashani Science And Technology University", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Primorska", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yalova University", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Asa University Bangladesh", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University College Dublin", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Showa Women's University", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Eugenio Maria de Hostos", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Bath", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "College of Notre Dame of Maryland", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Karpagam University", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aichi Gakuin University", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale Supérieure de Chimie de Clermont-Ferrand", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Suffolk University", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hamline University", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Chalmers University of Technology", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Academy of Economic Studies of Moldova", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Utah", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Aquino Bolivia", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blue Mountains Hotel School", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Surrey", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Instituto de Enseñanza Superior del Ejército", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Sichuan University", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Najaf Abad University of Applied Science and Technology", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mahatma Phule Agricultural University", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Autónoma de Occidente", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Quintana Roo", "Safety Technician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidade Ibirapuera", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "French Institute of Management", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bow Valley College", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade de Santo Amaro", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Atlanta College of Art", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rajasthan Agricultural University, Bikaner", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Ahar", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université Blaise Pascal (Clermont-Ferrand II)", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Facultés Universitaires Saint-Louis", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Católica de Salta", "Health Coach II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Far Eastern University", "Automation Specialist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jagran Lakecity University", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Swiss Federal Institute of Technology, Zurich", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Shirvan", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Autónoma de San Luis Potosí", "Staff Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shenyang Institute of Chemical Technology", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Sterling College", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Technological University (Taunggyi)", "Administrative Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Madero", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Latinoamericana de Ciencia y Tecnología", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Kordofan", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yanbu University College", "Office Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aichi Bunkyo University", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Technical University (Kharkiv Polytechnical Institute)", "Administrative Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Athens University of Economics and Business", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Western University", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gdynia Maritime Academy", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Abilene Christian University", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Baker College of Port Huron", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National Medical University O.O. Bogomolets", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Education", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Manila Central University", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Academia de Humanismo Cristiano", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ashland University", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Purdue University", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bangladesh Agricultural University", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Daito Bunka University", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brno University of Technology", "Automation Specialist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of KwaZulu-Natal", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ningbo University", "Statistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitas Kristen Krida Wacana", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Arizona Christian University", "Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "St. Petersburg State Agrarian University", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale des Travaux Publics de l'Etat", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "EUCLID University", "Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Franklin W. Olin College of Engineering", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "College of Notre Dame of Maryland", "Database Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Privada Juan Mejía Baca", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Breyer State University (Virtual University)", "Systems Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ningbo University", "Account Representative IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yeshiva University", "Administrative Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Istanbul Ticaret University", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fort Hays State University", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ballsbridge University ", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Silesian School of Economics and Languages", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Valley City State University", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Trisakti Institute of Tourism ", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad del Cauca", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Panthéon-Assas (Paris II)", "Accounting Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Sunderland", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade Federal de Santa Maria", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pontificio Istituto Orientale", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brooks Institute of Photography", "Web Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hakodate University", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lancaster University Ghana", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Latinoamericana de Ciencia y Tecnologia, Panamá", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Latinoamericana de Ciencia y Tecnologia, Panamá", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University College of Saint-Boniface", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Benson Idahosa University", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Southern Adventist University", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Institut des hautes études économiques et commerciales", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "National American University, Denver", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "California State University, Monterey Bay", "Office Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Dallas", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tanta University", "Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Taejon University", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Omsk State Technical University", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Payame Noor University", "Research Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trinity University", "Research Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Queen Mary and Westfield College, University of London", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Sidi Mohammed Ben Abdellah", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Muskingum College", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Palawan State University", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Osaka Institute of Technology", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Grantham University", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shih Chien University", "Accounting Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Higher Colleges of Technology", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "United States Military Academy", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Perm State Medical Academy", "Administrative Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Arkansas (System)", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yokohama City University", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "National Taiwan College of Arts", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universiti Kuala Lumpur", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universitas Gunadarma", "Health Coach II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université de Montpellier I", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Technical University of Civil Engineering Bucharest", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University Of Hawaii - System", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Northern Bahr El-Ghazal", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fachhochschule JOANNEUM", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Macau", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pittsburg State University", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Berne", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universiti Tun Abdul Razak", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwangwoon University", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "State University of West Georgia", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Nebraska (System)", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Chester", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Francisco de Paula Santander", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Puerto Rico, Cayey", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universiti Pendidikan Sultan Idris", "Systems Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Phillips University", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Engineering and Technology Lahore", "Automation Specialist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Abierta Para Adultos", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Athabasca University", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ural State Forestry Technical Academy", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Texas Chiropractic College", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lahti Polytechnic", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fitchburg State College", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technical University of Liberec", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Justo Sierra", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Birsk State Pedagogical Institute", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "George Mason University", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tiraspol State University", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Korea National University of Physical Education", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hochschule für Philosophie München", "Account Representative IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "North West Frontier Province Agricultural University", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tezukayama University", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Miyagi University of Education", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Islamic Azad University, Majlesi", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Akrofi-Christaller Institute of Theeology, Mission and  Culture", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université de Technologie de Troyes", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Akademia Podlaska", "Automation Specialist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Benedict College", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Central University of Technology, Free State", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Victoria University", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Camosun College", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Instituto Tecnologico de Durango", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ecole Nationale Supérieure de Chimie de Rennes", "Software Test Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of North Carolina at Pembroke", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad San Francisco Xavier de Chuquisaca", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bushehr University of Medical Sciences", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "DePauw University", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad Atlantida Argentina", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fachhochschule Offenburg, Hochschule für Technik und Wirtschaft", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidade Gregorio Semedo", "Programmer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "McPherson College", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University Aurel Vlaicu Arad", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Hendrix College", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "International Higher School for Advanced Studies Trieste", "Account Representative I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Gabriela Mistral", "Programmer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Queensland", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Police Academy", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ekiti State University", "Programmer Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "School for International Training", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brookdale Community College", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Aarhus School of Architecture", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aristotle University of Thessaloniki", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidade de Coimbra", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "University of Sadat City", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Human Development (Kurdistan Region)", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bartlesville Wesleyan College", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Modern Acadmy", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Phoenix", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hillsdale College", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ecole Universitaire d'Ingénieurs de Lille", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Piraeus", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Russian Customs Academy, Vladivostok Branch", "Media Manager IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Universidad de Montevideo", "Web Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "China youth college for political science", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Belarussian State Polytechnical Academy", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Université de Kinshasa", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Technological University (Pinlon)", "Office Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gubkin Russian State University of Oil and Gas", "Software Test Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Whitworth College", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Université Notre Dame d'Haïti", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Católica de Santa Fé", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitat de Lleida", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ripon College", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kuzbass State Technical University", "Office Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Komazawa University", "Office Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Tennessee - Martin", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ferris State University", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Monash University", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Karnataka State Law University", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Metropolitana Latin Campus", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Carl von Ossietzky Universität Oldenburg", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "King Mongkut's University of Technology North Bangkok", "Software Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fundação Educacional de Ituverava", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lasell College", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "University of Engineering and Technology Peshawar", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad de La Salle", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riga Technical University", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Technological University of Podillya", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Astrakhan State University", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Federico Henríquez y Carvajal", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Korea Advanced Institute of Science & Technology", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "College of Osteopathic Medicine of the Pacific (Western University of Health Sciences)", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "St Clements University - Higher Education School", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Karwan Institute of Higher Education", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Valley View University", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universitas Sanata Dharma", "Programmer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Hokkaido Tokai University", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Instituts Supérieurs de Formation des Maîtres", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Humphreys College", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Universidad Francisco de Vitoria", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lappeenranta University of Technology", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lorestan University of Medical Sciences", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordware", "Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twiyo", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browseblab", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skivee", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ainyx", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Podcat", "Account Representative II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagfeed", "Software Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Riffpath", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Photolist", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brainsphere", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browseblab", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realfire", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skinte", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yoveo", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordware", "Systems Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jaxnation", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twinte", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoonoodle", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gevee", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyonder", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Nlounge", "Accounting Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Livefish", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tazz", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Edgeblab", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jabberbean", "Automation Specialist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oozz", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicshots", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakidoo", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoloo", "Research Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterwire", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tazz", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yakitri", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtworks", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yakitri", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aibox", "Biostatistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brainbox", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meemm", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kayveo", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kanoodle", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jetwire", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynyx", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Geba", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voomm", "Administrative Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynyx", "Web Designer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Reallinks", "Accounting Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aivee", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shuffledrive", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jayo", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Camimbo", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Trupe", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meejo", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mydeo", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mydeo", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Camido", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quinu", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realbuzz", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skyble", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Livetube", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Innojam", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rhyzio", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shufflester", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oloo", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Photojam", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordware", "Automation Specialist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realblab", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Abata", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffpedia", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bluejam", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gigashots", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Flashspan", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoonoodle", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ainyx", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skyba", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhybox", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Chatterbridge", "Staff Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skinder", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dynava", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brainbox", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devcast", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomcast", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quimba", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "LiveZ", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kimia", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yodoo", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realfire", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffledrive", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shufflebeat", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wordtune", "Automation Specialist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "DabZ", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Abata", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bubblebox", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Linkbridge", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mydo", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cogibox", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meevee", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Edgeblab", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mynte", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jaxnation", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakitri", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skyba", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainbox", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quaxo", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skipfire", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "Biostatistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flashspan", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Divape", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ailane", "Database Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzshare", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babblestorm", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vinte", "Computer Systems Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtstorm", "Safety Technician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devify", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Lazzy", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ntag", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Flashspan", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twinder", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Omba", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsecat", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Cogidoo", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtmix", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainsphere", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jayo", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rhybox", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voolia", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagchat", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Riffpedia", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Einti", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yodoo", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avaveo", "Staff Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Minyx", "Computer Systems Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skidoo", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wordpedia", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Camido", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yadel", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kamba", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainbox", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoovu", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devbug", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordify", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Youspan", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Divavu", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilia", "Web Designer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Linkbuzz", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsezoom", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realbridge", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skimia", "Biostatistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzshare", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tanoodle", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trunyx", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kamba", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyope", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Chatterpoint", "Safety Technician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fivebridge", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wordify", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyoba", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoombeat", "Media Manager I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voonder", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Leenti", "Computer Systems Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffwire", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realcube", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterbeat", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photobug", "Programmer Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Thoughtstorm", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eare", "Biostatistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Abatz", "Safety Technician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voomm", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meedoo", "Web Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skilith", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chatterbridge", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsetype", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtstorm", "Administrative Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagcat", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devshare", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eamia", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devpulse", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagpad", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagchat", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ailane", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakijo", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skilith", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Aimbo", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gabcube", "Safety Technician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bubblemix", "Administrative Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Edgeblab", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meedoo", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffletag", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Camimbo", "Office Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photobean", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jetwire", "Web Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Trudoo", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicblab", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Demimbu", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tambee", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skinix", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Divavu", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gigaclub", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Talane", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flashpoint", "Automation Specialist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oozz", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fatz", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oodoo", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Blogtag", "Systems Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabvine", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voolith", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twiyo", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topdrive", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skiptube", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoovu", "Safety Technician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realbridge", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zooveo", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "LiveZ", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Minyx", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realcube", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Aimbu", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topiczoom", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jabbersphere", "Health Coach I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yakijo", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yakijo", "Computer Systems Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Edgetag", "Office Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tambee", "Safety Technician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oba", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mydo", "Media Manager IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fivespan", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jaloo", "Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bubbletube", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Myworks", "Programmer Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skynoodle", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzdog", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Agivu", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyope", "Human Resources Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topiclounge", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eazzy", "Programmer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skyndu", "Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yodoo", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rooxo", "Web Designer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wikizz", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shuffletag", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yoveo", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babblestorm", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Linkbuzz", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bluezoom", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tazz", "Research Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomdog", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vimbo", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsecat", "Web Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skynoodle", "Accounting Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quimba", "Health Coach III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eazzy", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Muxo", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mudo", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meeveo", "Accounting Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eidel", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicblab", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Blogtag", "Media Manager I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffwire", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Camido", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Youspan", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voomm", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jayo", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quinu", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mynte", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jaxworks", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Katz", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Reallinks", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoombeat", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabspot", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoomlounge", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Babbleopia", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterworks", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voolith", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "BlogXS", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Leenti", "Human Resources Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feedspan", "Media Manager III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brainlounge", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Photospace", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsezoom", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meetz", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vitz", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Innotype", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Aimbu", "Media Manager III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vidoo", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhyloo", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cogilith", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffletag", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gabtune", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mycat", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Leexo", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gigashots", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browseblab", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skipstorm", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dynabox", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tazz", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Layo", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Katz", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Blogtags", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skajo", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kayveo", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skyvu", "Geologist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photojam", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yata", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Centizu", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Centimia", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flipbug", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wikibox", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realmix", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jetwire", "Database Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Katz", "Automation Specialist IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomlounge", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blognation", "Programmer Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yadel", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quamba", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yodo", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tekfly", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Feedfish", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twinte", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eazzy", "Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kayveo", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bluezoom", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicshots", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoonoodle", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eimbee", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicstorm", "Administrative Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomzone", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Snaptags", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "JumpXS", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Divanoodle", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eabox", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babbleset", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabspot", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gigashots", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kare", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kare", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Roodel", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cogidoo", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tagtune", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsecat", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voolith", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyoba", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ntags", "Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blognation", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meembee", "Safety Technician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skimia", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtbridge", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainbox", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakijo", "Web Designer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Edgeclub", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoomzone", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skalith", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtworks", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsezoom", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabtype", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Blogtags", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Photobean", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fadeo", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Demimbu", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Voonyx", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Einti", "Biostatistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsetype", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bubblebox", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skalith", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rooxo", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cogidoo", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wikido", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avavee", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yombu", "Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gigazoom", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakijo", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Plajo", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Flashspan", "Programmer Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Camido", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eadel", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Centidel", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avamm", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Livetube", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jabberstorm", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devpoint", "Automation Specialist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Viva", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eadel", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoovu", "Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twimbo", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwilith", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dynazzy", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Livefish", "Web Developer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jazzy", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Youspan", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lazz", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skipstorm", "Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eire", "Software Test Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mita", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voonte", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Babbleblab", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffledrive", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realcube", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twimbo", "Staff Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Linklinks", "Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "JumpXS", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mydo", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicblab", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicblab", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ailane", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Livetube", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realmix", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kwideo", "Database Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Linktype", "Media Manager I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoyo", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Divavu", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhybox", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoloo", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Youspan", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fadeo", "Health Coach III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "BlogXS", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Edgepulse", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topdrive", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Thoughtsphere", "Web Designer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aivee", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blogtag", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yacero", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Izio", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynoodle", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twitterbridge", "Biostatistician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blogtag", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blognation", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wikibox", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kazio", "Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gigashots", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoonder", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gigashots", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffpath", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Livetube", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pixope", "Software Test Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dabfeed", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zazio", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skaboo", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsezoom", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avamba", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabjam", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wordtune", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Omba", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yotz", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabshots", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devbug", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Camido", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Thoughtbridge", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzshare", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yodoo", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Feedbug", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabtype", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meezzy", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skidoo", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twinder", "Computer Systems Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mynte", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devcast", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabfeed", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtstorm", "Accounting Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meevee", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babbleblab", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oloo", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dabvine", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsebug", "Health Coach III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsedrive", "Web Designer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skilith", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicstorm", "Biostatistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bluezoom", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomlounge", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yodo", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quatz", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vitz", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Einti", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oba", "Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffwire", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dazzlesphere", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realblab", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Talane", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rhybox", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cogilith", "Programmer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meevee", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyondu", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "LiveZ", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "InnoZ", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wordware", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Cogilith", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dynava", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babbleset", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avavee", "Health Coach IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Cogibox", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twinte", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skinix", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Abata", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Youspan", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oodoo", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Thoughtbeat", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Leenti", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tazz", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsezoom", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mudo", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avamba", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tavu", "Automation Specialist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quinu", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fliptune", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoloo", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dynabox", "Administrative Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoomlounge", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voonyx", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twitterbeat", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordpedia", "Computer Systems Analyst I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yombu", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Youfeed", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meevee", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Flipstorm", "Database Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feedspan", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicware", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Nlounge", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jayo", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skipstorm", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eimbee", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zooveo", "Programmer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterlist", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quimm", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzdog", "Staff Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mudo", "Administrative Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Voonix", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oodoo", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aimbu", "Systems Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Buzzdog", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gigabox", "Software Test Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainlounge", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oloo", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhyloo", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Minyx", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topdrive", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Youspan", "Software Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avamba", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browseblab", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Aivee", "Office Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fatz", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "LiveZ", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dabvine", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jaxspan", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skipfire", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterlist", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoloo", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gigaclub", "Programmer Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tagchat", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yata", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Centidel", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Trilith", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skinte", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Cogidoo", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mymm", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Plajo", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brightdog", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzster", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skynoodle", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ozu", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gevee", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kaymbo", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skajo", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Janyx", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Demizz", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mycat", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Centidel", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsebug", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flipbug", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oba", "Developer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainbox", "Office Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zava", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avaveo", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilia", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ailane", "Database Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mynte", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twitterbeat", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chatterpoint", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realbuzz", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tagfeed", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eamia", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabvine", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Camimbo", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avavee", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yakidoo", "Health Coach III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topicstorm", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Demizz", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topicstorm", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoovu", "Web Designer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mita", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skibox", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vinte", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skynoodle", "Staff Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meeveo", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bubbletube", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Ntag", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brightbean", "Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topiczoom", "Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feedmix", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Wordpedia", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skaboo", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meejo", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyope", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabshots", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainverse", "Administrative Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eimbee", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtblab", "Administrative Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kwilith", "Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oozz", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meejo", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagpad", "Database Administrator IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Divape", "Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Plambee", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eayo", "VP Quality Control")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eare", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Youtags", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Demizz", "Software Test Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsecat", "Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shufflebeat", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "InnoZ", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topicshots", "Biostatistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dynabox", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quamba", "Media Manager I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rooxo", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilith", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Katz", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kwinu", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynyx", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babbleblab", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dabshots", "Software Test Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fivechat", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Voonix", "Programmer Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ainyx", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzbean", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Innotype", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordify", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devshare", "General Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kanoodle", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jabbercube", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoonoodle", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Riffwire", "Software Test Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meedoo", "Systems Administrator I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtworks", "Accounting Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skippad", "Safety Technician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twinte", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Avamm", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oloo", "Software Test Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shufflebeat", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Izio", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lazz", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shufflester", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fivebridge", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eabox", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skimia", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyope", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoombox", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jayo", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avamm", "Media Manager IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avavee", "Help Desk Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brightdog", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagpad", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoba", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Muxo", "Computer Systems Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meedoo", "Product Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "JumpXS", "Health Coach I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilia", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Katz", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kanoodle", "Web Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Riffpath", "Human Resources Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Plambee", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwilith", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabshots", "Programmer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realcube", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oba", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mynte", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffpath", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eimbee", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jatri", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mydo", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twimm", "Programmer Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ailane", "Accountant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Livefish", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shufflester", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Flipopia", "Tax Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Riffwire", "Computer Systems Analyst III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "JumpXS", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsecat", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Trilith", "Web Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jamia", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meedoo", "Technical Writer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mynte", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skimia", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vidoo", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photobean", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quimba", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "DabZ", "Automation Specialist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zooxo", "Database Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterbridge", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Podcat", "Web Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterwire", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ooba", "Recruiting Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gabvine", "Financial Advisor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skippad", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "Software Test Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bubblemix", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tagopia", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Minyx", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Cogibox", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomlounge", "Biostatistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzster", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mydeo", "Health Coach III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devcast", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jabbersphere", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jabberstorm", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skipstorm", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jaxspan", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kanoodle", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eabox", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yodoo", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rhybox", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meetz", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tekfly", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meedoo", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Edgeclub", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Roomm", "Accounting Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Topiclounge", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bubbletube", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meevee", "Automation Specialist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devpoint", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "JumpXS", "Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fiveclub", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Divavu", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bluejam", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skaboo", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oodoo", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtbeat", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babblestorm", "Media Manager I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Livefish", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoombeat", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jetpulse", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photojam", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Chatterpoint", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realcube", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voonte", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Edgeclub", "Electrical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bubbletube", "Programmer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oodoo", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffpath", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eayo", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fivespan", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Abata", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoovu", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Divape", "Office Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realbridge", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Feednation", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kazu", "Civil Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Bluezoom", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Camimbo", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Roombo", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Npath", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topiclounge", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dablist", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dabvine", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feednation", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Youspan", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jabberstorm", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realbuzz", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meetz", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynyx", "Internal Auditor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Rhyloo", "Statistician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kaymbo", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quimba", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabcube", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Feedspan", "Software Test Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devcast", "Director of Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realmix", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ntags", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoombeat", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yoveo", "Administrative Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jabbercube", "Geologist III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Vitz", "Executive Secretary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Demimbu", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flipopia", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Kwinu", "Staff Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Livetube", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fliptune", "Human Resources Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Edgeblab", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skyndu", "Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynoodle", "Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quinu", "Help Desk Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twimbo", "Human Resources Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eidel", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Flipstorm", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yodoo", "Research Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Linkbuzz", "Media Manager IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twitterbeat", "Staff Scientist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vitz", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Brainverse", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Latz", "Media Manager I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabtype", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yotz", "Web Designer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devshare", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flashset", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Vipe", "Web Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Riffwire", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oloo", "Systems Administrator III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabcube", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tagfeed", "Health Coach IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Roombo", "Staff Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtsphere", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oozz", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ainyx", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Pixope", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skilith", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "Recruiter")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "InnoZ", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devify", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gabtype", "Staff Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Zoonder", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yodoo", "Staff Accountant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Latz", "GIS Technical Architect")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eadel", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "JumpXS", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twiyo", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topiclounge", "Software Consultant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fiveclub", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meetz", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skidoo", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Teklist", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yambee", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meejo", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordware", "Safety Technician IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yoveo", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twitterbeat", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meevee", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterwire", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avamba", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoonder", "Automation Specialist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Izio", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Linkbridge", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhybox", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skippad", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skaboo", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtbeat", "VP Marketing")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Voolith", "Structural Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skinder", "Automation Specialist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Demizz", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabtype", "Assistant Media Planner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoba", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lajo", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffletag", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meedoo", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dynava", "Safety Technician II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mydeo", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fivebridge", "Community Outreach Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Brainverse", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gigazoom", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Gabcube", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Shufflebeat", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rooxo", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devcast", "Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Pixonyx", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Feedfire", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feedmix", "Programmer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yabox", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Topiclounge", "Health Coach IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realbuzz", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Babbleopia", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voolith", "Nurse Practicioner")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Voonder", "Information Systems Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oodoo", "Administrative Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photobug", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Feedfire", "Computer Systems Analyst IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yombu", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Dabshots", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwimbee", "Sales Representative")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dynava", "Operator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Katz", "Data Coordiator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skipstorm", "Biostatistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skalith", "Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voolith", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meejo", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jaxbean", "Senior Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tagpad", "Statistician III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Youfeed", "Media Manager II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browsedrive", "Senior Developer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fivechat", "Marketing Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eimbee", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Bubblemix", "Environmental Tech")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Aivee", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyonder", "Geologist I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tekfly", "Chief Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Divanoodle", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Twinte", "Compensation Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterbeat", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Trilia", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skivee", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Katz", "Registered Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwinu", "Chemical Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Lajo", "Health Coach II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Blogtags", "Nuclear Power Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jamia", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jabbertype", "Geologist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eamia", "Research Nurse")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakidoo", "Human Resources Assistant III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quimba", "VP Sales")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yadel", "Accountant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Gabcube", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wikizz", "Software Engineer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Kwinu", "Administrative Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Realcube", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oba", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tekfly", "Systems Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Linkbuzz", "Project Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quimba", "Web Developer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dabfeed", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skimia", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Linklinks", "Web Developer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meezzy", "Senior Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meeveo", "Staff Accountant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "BlogXS", "Marketing Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yabox", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Miboo", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Voolia", "Environmental Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flashspan", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skimia", "Software Engineer IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Jabbertype", "Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Photospace", "Account Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wordpedia", "Mechanical Systems Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomzone", "Desktop Support Technician")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mudo", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Browseblab", "Speech Pathologist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yabox", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Quatz", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Livefish", "Human Resources Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quinu", "Junior Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eayo", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quaxo", "Assistant Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterwire", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yata", "Occupational Therapist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Voonte", "Associate Professor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Fliptune", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Zoomdog", "VP Accounting")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagtune", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eamia", "Human Resources Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Eire", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Rhynyx", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Quatz", "Structural Analysis Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Meembee", "Pharmacist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Avavee", "Programmer Analyst II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Realcube", "Quality Control Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilia", "Administrative Officer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Roodel", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Tekfly", "Office Assistant II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Twitterwire", "Legal Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Skinte", "Design Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Devcast", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yadel", "Teacher")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Mybuzz", "Analog Circuit Design manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Blogpad", "Payment Adjustment Coordinator")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skynoodle", "Automation Specialist II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Wikivu", "VP Product Management")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Thoughtstorm", "Analyst Programmer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Dynazzy", "Senior Financial Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Oyondu", "Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Digitube", "Statistician I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Feednation", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Jaxspan", "Developer I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yakitri", "Librarian")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Photobug", "Systems Administrator II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Buzzbean", "Food Chemist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Mynte", "Paralegal")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Fatz", "Engineer III")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Muxo", "Geological Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Devpulse", "Sales Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Youspan", "Assistant Manager")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meemm", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Yodoo", "Social Worker")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Edgeblab", "Actuary")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Thoughtbridge", "Account Executive")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Ooba", "Dental Hygienist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Livetube", "Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Talane", "Graphic Designer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Oyoyo", "Physical Therapy Assistant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skinte", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skivee", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eidel", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsecat", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakijo", "Accounting Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffledrive", "Administrative Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flipopia", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagcat", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilith", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skinte", "Clinical Specialist")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Skivee", "Business Systems Development Analyst")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Eidel", "Software Engineer II")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Browsecat", "Senior Cost Accountant")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Yakijo", "Accounting Assistant IV")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("work experience", "Shuffledrive", "Administrative Assistant I")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Flipopia", "Research Associate")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Tagcat", "Quality Engineer")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Trilith", "Senior Editor")
-INSERT INTO dbo.experiences (type, entity, degree) VALUES ("educational experience", "Meemm", "Account Executive")
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 690, 'modular', 'Web Designer III', 'Universitas Nusa Cendana');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 215, 'Implemented', 'Help Desk Operator', 'Adventist University of Africa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 672, 'process improvement', 'Environmental Specialist', 'Providence University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 406, 'system-worthy', 'Statistician I', 'Ecole Supérieure de Commerce de Pau');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 730, 'Assimilated', 'Technical Writer', 'Rutgers, The State University of New Jersey - Newark"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 659, 'empowering', 'Senior Developer', 'Dublin Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 40, 'bandwidth-monitored', 'Help Desk Technician', 'Kingston College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 745, 'bifurcated', 'Administrative Assistant III', 'Universidad de San José');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 534, 'interface', 'Professor', 'National School of Political and Administrative Studies Bucharest');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 895, 'cohesive', 'Information Systems Manager', 'Mansoura University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 187, 'logistical', 'Desktop Support Technician', 'Kochi University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 366, 'Streamlined', 'Physical Therapy Assistant', 'University of Nizwa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 582, 'Cross-platform', 'Tax Accountant', 'Ashland University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 506, 'needs-based', 'Senior Financial Analyst', 'Steinbeis-Hochschule-Berlin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 116, 'Graphic Interface', 'Programmer Analyst I', 'Universidade Salvador');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 128, 'project', 'Analog Circuit Design manager', 'St. Johns University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 656, 'methodology', 'Systems Administrator II', 'Universidad Nacional Mayor de San Marcos');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 602, 'system-worthy', 'Design Engineer', 'Columbia Commonwealth University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 703, 'national', 'Geological Engineer', 'Gdynia Maritime Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 336, 'disintermediate', 'Professor', 'Gandhara Institute of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 195, 'bandwidth-monitored', 'Account Representative IV', 'Tennessee Technological University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 139, 'data-warehouse', 'Database Administrator IV', 'Tama Art University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 225, 'static', 'Help Desk Operator', 'Steinbeis-Hochschule-Berlin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 409, 'attitude-oriented', 'Engineer II', 'Saratov State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 21, 'help-desk', 'Human Resources Assistant III', 'Universidad de Iberoamérica');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 654, 'systemic', 'Internal Auditor', 'St. Clair College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 492, 'instruction set', 'Assistant Professor', 'Istanbul Bilgi University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 850, 'benchmark', 'Assistant Media Planner', 'Ashton College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 618, 'application', 'Food Chemist', 'Sarhad University of Science & Information Technology, Peshawar "');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 721, '3rd generation', 'Environmental Tech', 'Jai Prakash University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 269, 'Face to face', 'Legal Assistant', 'National University of Science and Technology Bulawayo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 848, 'heuristic', 'Speech Pathologist', 'Royal Holloway and Bedford New College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 119, 'tangible', 'Engineer I', 'Sabzevar Teacher Training University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 572, 'process improvement', 'Operator', 'University of Baltimore');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 117, 'transitional', 'Editor', 'University of Seychelles - American Institute of Medicine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 345, 'structure', 'Design Engineer', 'Sendai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 353, 'Vision-oriented', 'Compensation Analyst', 'Marmara University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 209, 'Monitored', 'Executive Secretary', 'Kuwait University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 69, 'productivity', 'Senior Sales Associate', 'Ch. Charan Singh University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 641, 'Front-line', 'Nurse Practicioner', 'Universidad Americana');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 651, 'utilisation', 'Design Engineer', 'Dr. Babasaheb Ambedkar Marathwada Universtiy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 99, 'paradigm', 'Research Associate', 'Astrahan State Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 351, 'clear-thinking', 'Mechanical Systems Engineer', 'Ochanomizu Womens University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 697, 'info-mediaries', 'Web Developer IV', 'Sothebys Institute of Art - London');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 800, 'Self-enabling', 'Sales Representative', 'University of Arizona');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 501, 'open architecture', 'Automation Specialist I', 'Universitas Pembangunan Panca Budi');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 330, 'bi-directional', 'Pharmacist', 'Chaopraya University ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 209, 'Customer-focused', 'General Manager', 'Royal Academy of Music, University of London"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 431, 'methodology', 'Occupational Therapist', 'Université Française dÉgypte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 495, 'solution', 'Senior Cost Accountant', 'Universidad Central de Nicaragua');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 353, 'composite', 'Accountant III', 'Kaohsuing Open University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 210, 'cohesive', 'Geologist II', 'Hokkaido Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 352, 'interactive', 'Programmer I', 'St. Petersburg State University of Waterway Communications');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 384, 'Grass-roots', 'Pharmacist', 'University of Medicine and Pharmacy of Timisoara');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 720, 'zero defect', 'Health Coach II', 'University of Tehran');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 302, 'open system', 'Web Designer III', 'Hunan Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 462, 'Integrated', 'Human Resources Manager', 'University of Petrosani');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 139, 'functionalities', 'Civil Engineer', 'Ecole National dAgriculture de Meknes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 583, 'explicit', 'Legal Assistant', 'Higher Institute of Business Administration');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 313, 'Business-focused', 'Structural Analysis Engineer', 'Universidade Tiradentes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 424, 'service-desk', 'Payment Adjustment Coordinator', 'Kiev School Of Economics');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 301, 'Self-enabling', 'Help Desk Technician', 'Mimasaka Womens College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 18, 'Focused', 'Environmental Specialist', 'Ruhr-Universität Bochum');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 414, 'Switchable', 'Civil Engineer', 'University of Saint La Salle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 368, 'context-sensitive', 'Accountant I', 'University of Constanta Medical School');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 81, 'capacity', 'Teacher', 'Cheyney University of Pennsylvania');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 295, 'optimal', 'Mechanical Systems Engineer', 'Universidad España de Durango');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 244, 'Advanced', 'Financial Advisor', 'Fachhochschule JOANNEUM');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 595, '6th generation', 'Account Representative III', 'Franklin W. Olin College of Engineering');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 759, 'Function-based', 'Design Engineer', 'Vesalius College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 446, 'superstructure', 'Nurse', 'Austin Peay State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 162, 'Phased', 'Nurse', 'Orenburg State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 409, 'algorithm', 'Analog Circuit Design manager', 'University of Health Sciences Antigua');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 157, 'Re-contextualized', 'Senior Cost Accountant', 'Transport and Telecommunication Institute');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 845, 'frame', 'Safety Technician II', 'Kazak American University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 424, 'knowledge base', 'Editor', 'Moscow State Textile University A.N. Kosygin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 248, 'Versatile', 'Community Outreach Specialist', 'University of Economics in Bratislava');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 556, 'middleware', 'Biostatistician III', 'Kettering University (GMI)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 700, 'service-desk', 'Marketing Manager', 'Cambridge College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 129, 'global', 'Database Administrator II', 'Universidad Nacional Pedro Henríquez Ureña');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 451, 'array', 'Marketing Assistant', 'Université Épiscopale dHaiti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 867, 'hub', 'Environmental Specialist', 'National Taipei College of Nursing');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 432, 'Compatible', 'Business Systems Development Analyst', 'Instituto Superior de Paços de Brandão');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 293, 'emulation', 'Legal Assistant', 'Tehran University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 523, 'radical', 'Automation Specialist IV', 'Fred Hutchinson Cancer Research Center');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 891, 'mission-critical', 'Nurse Practicioner', 'Université Euro-Afrique');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 756, 'background', 'Business Systems Development Analyst', 'Georgia Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 587, '5th generation', 'Pharmacist', 'Technical University of Gdansk');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 526, '24 hour', 'Senior Editor', 'Rajshahi University of Engineering and Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 464, 'Organized', 'Analyst Programmer', 'Emory University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 564, '6th generation', 'Statistician III', 'Thiagarajar College of Engineering');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 603, 'multi-tasking', 'General Manager', 'Pontifícia Universidade Católica de Minas Gerais');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 166, 'product', 'Sales Representative', 'DePauw University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 384, 'mobile', 'Project Manager', 'Hajvery University Lahore for Women');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 134, 'focus group', 'Assistant Media Planner', 'Punjab University College of Information Tecnology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 760, 'Vision-oriented', 'Web Designer III', 'Ecole Supérieure de Commerce de Dijon');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 151, 'Balanced', 'Structural Analysis Engineer', 'University of Bunkyo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 207, 'flexibility', 'Research Nurse', 'University of Peloponnese');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 178, 'mobile', 'Accountant I', 'French University in Armenia (UFAR)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 713, 'hardware', 'Information Systems Manager', 'Tokushima Bunri University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 619, 'asymmetric', 'Programmer III', 'Rabindra Bharati University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 581, 'Streamlined', 'Information Systems Manager', 'Park College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 166, 'Managed', 'Editor', 'Lyon College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 841, 'well-modulated', 'Operator', 'Robert Morris College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 829, 'budgetary management', 'Information Systems Manager', 'Aichi Medical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 876, 'actuating', 'Safety Technician I', 'National College of Art and Design');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 97, 'cohesive', 'Compensation Analyst', 'University of Cincinnati');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 421, 'solution', 'Professor', 'University of the Incarnate World');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 831, 'tertiary', 'Software Test Engineer II', 'Universidad Juárez Autónoma de Tabasco');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 467, 'explicit', 'Health Coach II', 'Ecole Nationale Supérieure dIngénieurs de Génie Chimique');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 674, 'Organized', 'Senior Cost Accountant', 'University of Medicine and Pharmacy of Cluj-Napoca');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 359, 'intangible', 'Sales Associate', 'Southwest Petroleum University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 747, 'contingency', 'Staff Scientist', 'Mu tah University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 655, 'intermediate', 'Community Outreach Specialist', 'Houston Baptist University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 795, 'neural-net', 'Cost Accountant', 'Universidad de Ciego de Avila');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 532, 'capability', 'Biostatistician I', 'Kings College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 468, 'database', 'Speech Pathologist', 'Kemerovo State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 122, 'customer loyalty', 'Software Engineer I', 'Technische Fachhochschule Wildau');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 299, 'Secured', 'Clinical Specialist', 'Moscow State Technical University of Civil Aviation');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 452, 'explicit', 'Occupational Therapist', 'Universidad de Sonora');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 398, 'Front-line', 'Automation Specialist IV', 'Technological University (Meikhtila)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 492, 'systemic', 'Senior Developer', 'Islamic Azad University, Bandar Abbas"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 42, 'framework', 'Environmental Tech', 'Universidad de Gerona');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 558, 'access', 'Information Systems Manager', 'NTB Interstate University of Applied Sciences of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 32, 'software', 'Computer Systems Analyst IV', 'West Virginia Wesleyan College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 27, 'Face to face', 'Marketing Assistant', 'Eberhard-Karls-Universität Tübingen');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 384, 'next generation', 'Account Executive', 'Benue State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 219, 'product', 'Marketing Manager', 'Iglobal University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 270, '3rd generation', 'Civil Engineer', 'Tashkent School of Finance');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 48, 'holistic', 'Recruiting Manager', 'Northern Jiaotong University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 365, 'Innovative', 'Environmental Tech', 'Jeonju University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 358, 'Face to face', 'Chemical Engineer', 'St.Patricks International College, London"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 153, 'secured line', 'Biostatistician II', 'Universidad Autónoma de Chiapas');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 572, 'leverage', 'Accounting Assistant IV', 'University of Chieti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 765, 'cohesive', 'Marketing Assistant', 'Samara State University of Economics');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 585, 'Customer-focused', 'Web Designer III', 'Universidad Academia de Humanismo Cristiano');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 780, 'didactic', 'Account Representative III', 'SASTRA Deemed University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 172, 'Stand-alone', 'Teacher', 'Chittagong Independent University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 430, 'bandwidth-monitored', 'Senior Editor', 'Kyoto City University of Arts');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 472, 'database', 'Analyst Programmer', 'Kwararafa University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 554, 'Focused', 'Environmental Tech', 'St. Petersburg State Forest-Technical Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 721, 'encryption', 'VP Marketing', 'Dongduk Womens University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 711, 'groupware', 'Sales Associate', 'Baker College of Port Huron');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 720, 'mobile', 'Teacher', 'Vietnam Maritime University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 264, 'Quality-focused', 'Senior Cost Accountant', 'Central Luzon State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 428, 'logistical', 'Biostatistician IV', 'Vikrama Simhapuri University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 446, 'methodical', 'Editor', 'The Manchester Metropolitan University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 233, 'synergy', 'Technical Writer', 'Bluefield College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 699, 'challenge', 'Engineer II', 'Seton Hall University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 364, 'Monitored', 'Senior Sales Associate', 'University of North Bengal');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 690, 'explicit', 'VP Quality Control', 'Huazhong Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 775, 'actuating', 'Software Test Engineer IV', 'Richmond University - The American International University in London');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 106, 'budgetary management', 'Internal Auditor', 'Wilmington College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 492, 'Down-sized', 'Internal Auditor', 'Plymouth State College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 213, 'Monitored', 'Business Systems Development Analyst', 'Universitas Palangka Raya');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 295, 'responsive', 'Internal Auditor', 'University of Education Hradec Kralove');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 787, 'interface', 'Senior Developer', 'Université de Bamako');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 416, 'workforce', 'General Manager', 'Universidad de Oviedo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 178, 'capability', 'Chemical Engineer', 'Tama Art University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 475, 'Synergistic', 'Analyst Programmer', 'Southern Utah University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 520, 'Profound', 'Marketing Manager', 'College for Financial Planning');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 205, 'hardware', 'Executive Secretary', 'Institut National Supérieur de Formation Agro-Alimentaire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 117, 'Switchable', 'Senior Cost Accountant', 'Stevens Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 7, 'Vision-oriented', 'VP Product Management', 'Université du Québec à Trois-Rivières');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 519, 'definition', 'Geologist I', 'Université de Nantes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 630, 'data-warehouse', 'Assistant Media Planner', 'Circleville Bible College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 97, 'Networked', 'Clinical Specialist', 'Syktyvkar State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 479, '5th generation', 'Quality Control Specialist', 'Gonabad University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 558, 'Front-line', 'Payment Adjustment Coordinator', 'Tribhuvan University Kathmandu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 779, 'high-level', 'Payment Adjustment Coordinator', 'Lithunian University of Agriculture');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 65, 'forecast', 'Staff Accountant I', 'International College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 434, 'Reactive', 'VP Quality Control', 'University of Lancaster');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 782, 'cohesive', 'Web Developer IV', 'Universidad Fray Luca Paccioli');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 621, 'service-desk', 'Geologist I', 'Hope College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 895, 'asymmetric', 'Sales Representative', 'Universität Bayreuth');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 45, 'Operative', 'Programmer Analyst III', 'Universidad NUR');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 128, 'User-friendly', 'Accounting Assistant II', 'Hamline University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 261, 'didactic', 'Payment Adjustment Coordinator', 'Punjab Institute of Computer science');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 799, 'explicit', 'General Manager', 'Drzavni Univerzitet u Novom Pazaru');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 712, 'database', 'Analyst Programmer', 'Karnataka State Open University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 76, 'Triple-buffered', 'Assistant Manager', 'University of Westminster');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 703, 'Down-sized', 'Accounting Assistant IV', 'Meiji Gakuin University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 72, 'Phased', 'Junior Executive', 'University of Montana');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 845, 'circuit', 'Research Nurse', 'Ege University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 218, 'modular', 'Compensation Analyst', 'Instituto Superior Politécnico e Universitário');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 634, 'Re-contextualized', 'Social Worker', 'Emmanuel College Georgia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 206, 'Optional', 'Pharmacist', 'Poltava University of Consumer Cooperatives in Ukraine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 845, 'dedicated', 'Technical Writer', 'Université de Yaoundé II');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 750, 'Focused', 'Senior Editor', 'China Academy of Art');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 635, 'Public-key', 'Data Coordiator', 'Pandit Ravi Shankar Shukla University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 352, 'global', 'Office Assistant I', 'Nawroz University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 467, 'firmware', 'Biostatistician III', 'Music Academy in Cracow');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 679, 'framework', 'Human Resources Assistant I', 'Gifu Shotoku Gakuen University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 122, 'well-modulated', 'Graphic Designer', 'University of Miami');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 312, 'firmware', 'Media Manager II', 'Universidad Tecnológica de los Andes de Apurímac');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 234, 'systematic', 'Nurse Practicioner', 'Detroit College of Law');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 670, 'stable', 'Staff Accountant IV', 'University of Jan Evangelista Purkyne');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 702, 'Team-oriented', 'Registered Nurse', 'George Wythe College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 297, 'interface', 'VP Quality Control', 'Selcuk University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 679, 'Function-based', 'Senior Developer', 'British Institute in Paris, University of London"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 435, 'project', 'Geological Engineer', 'Czech Technical University of Prague');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 76, 'ability', 'Data Coordiator', 'Bhagwant University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 423, 'Down-sized', 'Office Assistant III', 'New York Academy of Art, Graduate School of Figurative Art"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 167, 'Cross-platform', 'Human Resources Manager', 'Swiss Management Center');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 573, 'Customer-focused', 'Physical Therapy Assistant', 'Tohoku Gakuin University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 202, 'service-desk', 'Human Resources Assistant IV', 'Universidad Empresarial');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 125, 'structure', 'Geologist II', 'Stockholm University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 894, 'next generation', 'Clinical Specialist', 'Universidad Internacional de Andalucía');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 452, 'exuding', 'Quality Engineer', 'UNESCO-IHE Institute for Water Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 882, 'scalable', 'Occupational Therapist', 'Hesser College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 853, 'Organized', 'Web Developer I', 'Bridgewater College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 804, 'local area network', 'Social Worker', 'Kogi State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 676, 'collaboration', 'Associate Professor', 'Adler School of Professional Psychology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 761, 'human-resource', 'Safety Technician I', 'Chongqing Technology and Business University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 281, 'tertiary', 'Cost Accountant', 'University of San Francisco');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 104, 'bi-directional', 'Computer Systems Analyst IV', 'Universidad Politécnica de Cataluna');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 163, 'Advanced', 'Web Designer III', 'St. Petersburg State Polytechnical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 504, 'analyzer', 'Web Designer I', 'Yunnan Normal University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 878, 'Multi-tiered', 'Business Systems Development Analyst', 'Bohai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 136, 'hierarchy', 'VP Quality Control', 'Mount Kenya University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 881, 'zero defect', 'Recruiting Manager', 'Kobe University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 293, 'Profit-focused', 'Computer Systems Analyst II', 'Arab American University - Jenin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 633, 'responsive', 'Database Administrator I', 'Dutch University Institute for Art History (DUIA)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 71, 'Organized', 'Professor', 'Campbell University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 881, 'needs-based', 'Marketing Manager', 'Massey University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 264, 'approach', 'Financial Analyst', 'Universidad del Valle de México');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 676, 'Team-oriented', 'Senior Quality Engineer', 'University of NorthWest');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 570, 'user-facing', 'Dental Hygienist', 'Virtual University of Pakistan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 421, 'Intuitive', 'Environmental Tech', 'Capitol College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 85, 'De-engineered', 'Office Assistant IV', 'Lasell College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 845, 'initiative', 'Programmer IV', 'Université de Poitiers');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 39, 'complexity', 'Physical Therapy Assistant', 'Southwest University of Finance and Economics');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 444, 'Configurable', 'Clinical Specialist', 'Shanghai Ocean University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 430, 'bi-directional', 'Professor', 'Pontificia Universidad Catolica de Puerto Rico');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 766, 'extranet', 'Help Desk Operator', 'Universidad Mayor de San Simón');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 208, 'functionalities', 'VP Accounting', 'Universidad Nacional de San Juan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 691, 'Multi-lateral', 'Financial Advisor', 'Universidad Interamericana de Educacion a Distancia de Panama');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 348, 'time-frame', 'Help Desk Technician', 'Jai Prakash University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 707, 'installation', 'Financial Analyst', 'Embry-Riddle Aeronautical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 502, 'hierarchy', 'Recruiting Manager', 'Universidad de Buenos Aires');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 898, 'empowering', 'Research Assistant II', 'Cleary College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 321, 'Virtual', 'Accountant IV', 'Université de Montpellier II');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 774, 'benchmark', 'Quality Control Specialist', 'Greenville College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 163, 'Synergized', 'Senior Developer', 'Avinashilingam Institute for Home Science and Higher Education for Women');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 345, 'Up-sized', 'Business Systems Development Analyst', 'Ural State Academy of Railway Transport');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 208, 'pricing structure', 'Systems Administrator III', 'Universidade Candido Mendes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 886, 'responsive', 'Administrative Assistant IV', 'James Cook University of North Queensland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 250, 'Business-focused', 'Registered Nurse', 'Polytechnic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 213, 'Down-sized', 'General Manager', 'University of New England');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 12, 'object-oriented', 'Programmer Analyst III', 'Universidad del Turabo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 864, 'architecture', 'Community Outreach Specialist', 'Bastyr University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 863, 'parallelism', 'Health Coach IV', 'International Centre for Isclamic Science');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 815, 'background', 'Help Desk Operator', 'American University of Middle East');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 104, 'Open-source', 'Speech Pathologist', 'Universität Lüneburg');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 117, 'website', 'Payment Adjustment Coordinator', 'Universidad Nicaragüense de Ciencia y Tecnológica');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 519, 'Multi-channelled', 'Project Manager', 'West Minster International College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 503, 'tertiary', 'Financial Analyst', 'Divine Word College of Legazpi');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 803, 'executive', 'Executive Secretary', 'Oakton Community College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 520, 'high-level', 'Project Manager', 'Institute of Management Sciences, Peshawar"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 163, 'Decentralized', 'Senior Cost Accountant', 'Universidad Autónoma de Bucaramanga');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 659, 'incremental', 'Human Resources Manager', 'Dubna International University for Nature, Society and Man"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 708, 'asymmetric', 'Developer III', 'Fontbonne College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 146, 'well-modulated', 'VP Accounting', 'Asia Europe University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 636, 'clear-thinking', 'Nurse Practicioner', 'Evangelische Fachhochschule Hannover');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 531, 'intranet', 'Financial Analyst', 'University of NorthWest');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 791, 'Synchronised', 'Director of Sales', 'Universidad Nacional Pedro Ruíz Gallo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 132, 'Reduced', 'Editor', 'University of Northern Virginia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 401, 'synergy', 'Tax Accountant', 'Universitas Siliwangi');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 592, 'paradigm', 'Junior Executive', 'Rasmussen College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 271, 'Object-based', 'Office Assistant I', 'Ecole Française de Papeterie et des Industries Graphiques');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 112, 'attitude-oriented', 'Analyst Programmer', 'National Institute of Industrial Engineering');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 360, 'user-facing', 'Help Desk Technician', 'Gustavus Adolphus College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 162, 'Right-sized', 'Registered Nurse', 'Brest State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 40, 'installation', 'Physical Therapy Assistant', 'Universitas Pesantren Darul Ulum Jombang');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 481, 'client-server', 'Geological Engineer', 'Hampden-Sydney College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 18, 'knowledge base', 'Chief Design Engineer', 'Fiji National University ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 715, 'optimizing', 'Engineer III', 'West China University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 112, 'bifurcated', 'Registered Nurse', 'Muhimbili University of Health and Allied Sciences (MUHAS)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 895, 'Reduced', 'Quality Engineer', 'Instituto Politécnico de Coimbra');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 336, 'complexity', 'Staff Scientist', 'Purbanchal University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 645, 'collaboration', 'Business Systems Development Analyst', ' Dedan Kimathi University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 190, 'Stand-alone', 'Research Assistant I', 'Ecole Nationale Supérieure de Physique de Marseille');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 365, 'paradigm', 'Sales Associate', 'Western University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 767, 'knowledge user', 'Speech Pathologist', 'University of Redlands');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 52, 'capacity', 'Administrative Officer', 'Ecole Nationale Supérieure des Telecommunications de Paris');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 160, 'User-centric', 'Safety Technician IV', 'Universitas Negeri Manado');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 846, 'context-sensitive', 'Office Assistant III', 'Morris College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 33, 'stable', 'Assistant Manager', 'Universidad Academia de Humanismo Cristiano');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 71, 'extranet', 'Accountant IV', 'Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 758, 'success', 'Product Engineer', 'Instituto Superior de Ciências Empresariais e de Turismo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 859, 'radical', 'Nuclear Power Engineer', 'Hacettepe University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 695, 'Function-based', 'Graphic Designer', 'Universidad Mayor');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 334, 'Monitored', 'Paralegal', 'University of Auckland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 374, 'matrices', 'Account Representative I', 'Gdynia Maritime Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 243, 'database', 'Marketing Manager', 'Kobe Jogakuin University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 622, 'multi-state', 'Biostatistician I', 'Internationle Akademie für Philosophie');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 67, 'firmware', 'Structural Engineer', 'Lahti Polytechnic');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 119, 'didactic', 'Administrative Officer', 'Dakota State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 481, 'Open-source', 'Account Representative IV', 'Shizuoka Prefectural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 370, 'bottom-line', 'Senior Quality Engineer', 'Misan University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 830, 'pricing structure', 'Sales Associate', 'Hannibal-Lagrange College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 646, 'Reactive', 'Programmer Analyst I', 'Intercollege');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 559, 'directional', 'Software Consultant', 'Calvary Bible College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 318, 'high-level', 'Chief Design Engineer', 'University of Texas M.D. Anderson Cancer Center');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 32, 'system engine', 'Office Assistant II', 'Universidade de Passo Fundo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 411, 'web-enabled', 'Editor', 'Belarussian National Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 746, 'Open-source', 'Environmental Specialist', 'Islamic Azad University, Tehran South"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 831, 'Business-focused', 'Speech Pathologist', 'Universidad Mesoamericana de San Agustín');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 169, 'intermediate', 'Developer I', 'Universitas Diponegoro');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 162, 'Multi-channelled', 'Engineer IV', 'Universidad de Manizales');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 605, 'hybrid', 'Programmer Analyst I', 'Southwest Forestry University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 789, 'Mandatory', 'Nurse Practicioner', 'Oman College Of Management & Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 385, 'Configurable', 'Nurse', 'University of Northern Bahr El-Ghazal');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 14, 'grid-enabled', 'Programmer III', 'Osmania University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 890, 'Pre-emptive', 'Environmental Specialist', 'Henan Normal University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 740, 'value-added', 'Paralegal', 'Furman University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 681, 'User-friendly', 'Systems Administrator III', 'Yerevan State Medical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 16, 'well-modulated', 'Clinical Specialist', 'ITT Technical Institute West Covina');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 358, 'Optimized', 'Quality Control Specialist', 'Mount Union College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 847, 'Robust', 'Software Engineer II', 'Universiteit Antwerpen, UFSIA"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 688, 'Monitored', 'Account Representative III', 'Universidad La Republica');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 160, 'circuit', 'Payment Adjustment Coordinator', 'National University of Defense Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 174, 'neutral', 'Internal Auditor', 'Universidad de Málaga');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 764, 'customer loyalty', 'Paralegal', 'Fujian Medical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 694, 'transitional', 'Operator', 'Mekelle Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 702, 'reciprocal', 'Legal Assistant', 'University of Batangas');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 408, 'Integrated', 'Recruiter', 'University of the Sciences in Philadelphia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 747, 'Assimilated', 'Operator', 'Universidad Católica Cecilio Acosta');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 336, 'Mandatory', 'Financial Advisor', 'Universidade da Amazônia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 772, 'Sharable', 'Computer Systems Analyst I', 'Vali-e-Asr University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 536, 'encoding', 'Professor', 'University of New Hampshire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 637, 'Graphical User Interface', 'Software Engineer I', 'Minamikyushu University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 51, 'framework', 'Statistician I', 'Benedictine College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 640, 'process improvement', 'Recruiting Manager', 'Andon College - Stockton');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 328, 'neural-net', 'Project Manager', 'Universidade Metodista de Angola');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 536, 'hybrid', 'Senior Sales Associate', 'Zhongnan University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 537, 'challenge', 'Research Nurse', 'Alabama State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 130, 'contextually-based', 'Chief Design Engineer', 'University of Montevallo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 512, 'value-added', 'Web Developer IV', 'Maritime University Constanta');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 154, 'structure', 'Marketing Assistant', 'Kandahar University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 658, 'upward-trending', 'Geologist II', 'Botswana College of Agriculture');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 168, 'Networked', 'Analyst Programmer', 'Academy of Fine Arts');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 355, 'adapter', 'Research Nurse', 'Oklahoma State University - Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 458, 'Configurable', 'Director of Sales', 'Meiji University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 308, 'Re-contextualized', 'Staff Accountant IV', 'Universidad Maimónides');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 715, 'Realigned', 'Teacher', 'Zhejiang Sci-Tech University ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 873, 'strategy', 'Automation Specialist IV', 'Rice University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 496, 'methodology', 'Help Desk Technician', 'Wesley University of Science and Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 392, 'synergy', 'Senior Financial Analyst', 'Université Lumiére (Lyon II)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 687, 'Organized', 'Human Resources Assistant II', 'Friedrich-Alexander Universität Erlangen-Nürnberg');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 420, 'functionalities', 'Research Assistant III', 'Saad College of Nursing and Allied Health Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 738, 'Configurable', 'Software Consultant', 'Universidad ORT Uruguay');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 882, 'user-facing', 'Physical Therapy Assistant', 'Springfield College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 846, 'info-mediaries', 'GIS Technical Architect', 'University of New Brunswick');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 445, 'content-based', 'Senior Financial Analyst', 'Universidad José Maria Vargas');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 427, 'portal', 'Junior Executive', 'State University of New York College at Oneonta');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 693, 'Re-engineered', 'Research Associate', 'John Cabot University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 319, 'Extended', 'Programmer II', 'College of Busniess Admnistration');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 419, 'intranet', 'Speech Pathologist', 'University of Macerata');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 767, 'Optional', 'Administrative Assistant I', 'Ecole Nationale Supérieure de Chimie de Paris');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 213, 'client-server', 'Quality Engineer', 'Fachhochschule Rottenburg, Hochschule für Forstwirtschaft"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 792, 'Assimilated', 'Programmer I', 'Texas Southern University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 793, 'access', 'VP Product Management', 'Ecole Supérieure Internationale dAdministration des Entreprises');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 285, 'interactive', 'Software Consultant', 'National University of Kiev-Mohyla Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 439, 'parallelism', 'Actuary', 'Kyushu Tokai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 203, 'disintermediate', 'Financial Analyst', 'Florida Christian College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 896, 'methodical', 'Systems Administrator I', 'Qingdao University of Science and Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 211, 'Visionary', 'Design Engineer', 'Tokyo University of Agriculture');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 494, 'Re-contextualized', 'Mechanical Systems Engineer', 'Al-Jabal Al-Gharbi University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 384, 'Open-architected', 'Assistant Professor', 'Saratov State Agrarian University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 764, 'Fundamental', 'Health Coach I', 'Fundação Educacional de Ituverava');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 137, 'concept', 'Clinical Specialist', 'Yan Shan University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 487, 'Triple-buffered', 'Nurse', 'Universidad San Francisco Xavier');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 14, 'Visionary', 'Clinical Specialist', 'Universidade São Marcos');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 524, 'foreground', 'Cost Accountant', 'Guangzhou Academy of Fine Art');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 770, 'support', 'Occupational Therapist', 'Pädagogische Hochschule Heidelberg');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 470, 'next generation', 'VP Marketing', 'Aquinas College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 243, 'support', 'Financial Analyst', 'Moscow Institute of Physics and Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 143, 'policy', 'Software Consultant', 'Tilak Maharashtra Vidyapeeth');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 359, 'migration', 'Product Engineer', 'Universidad Autónoma de la Laguna');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 439, 'Customer-focused', 'Marketing Assistant', 'Loyola University New Orleans');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 161, 'Integrated', 'Information Systems Manager', 'Northeastern Illinois University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 40, 'Persistent', 'Account Executive', 'Amravati University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 778, 'pricing structure', 'Systems Administrator II', 'Ahsanullah University of Science & Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 127, 'structure', 'Software Test Engineer I', 'Instituto Superior Bissaya Barreto');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 346, 'disintermediate', 'Data Coordiator', 'French University in Armenia (UFAR)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 328, 'Realigned', 'Nurse', 'Université Thierno Amadou Diallo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 763, 'groupware', 'Senior Sales Associate', 'Charisma University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 55, 'Reverse-engineered', 'Systems Administrator I', 'Penang International Dental College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 705, 'open system', 'Administrative Officer', 'Poznan University of Life Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 228, 'coherent', 'GIS Technical Architect', 'Universidad Metropolitana de Honduras');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 773, 'Multi-channelled', 'Senior Cost Accountant', 'University of Nebraska - Omaha');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 582, 'Customer-focused', 'General Manager', 'Matn University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 261, 'fault-tolerant', 'Accounting Assistant III', 'University of Ilorin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 534, 'process improvement', 'Staff Scientist', 'Ghana Institute of Management and Public Administration (GIMPA)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 805, 'Grass-roots', 'Analog Circuit Design manager', 'Islamic University of Gaza');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 148, 'Total', 'Community Outreach Specialist', 'National Taiwan College of Arts');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 220, 'Managed', 'Office Assistant II', 'Polytechnic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 26, 'Universal', 'Developer III', 'Nelson Mandela Metropolitan University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 116, 'client-server', 'Quality Control Specialist', 'Joseph Ayo Babalola University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 685, 'intermediate', 'Environmental Specialist', 'Andrzej Frycz Modrzewski Cracow College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 849, 'empowering', 'Quality Engineer', 'Independent University, Bangladesh"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 107, 'didactic', 'Tax Accountant', 'Ohio University - Zanesville');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 327, 'full-range', 'Financial Analyst', 'Tohoku Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 719, 'Mandatory', 'Recruiting Manager', 'Universidad de Puerto Rico, Ponce"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 402, '6th generation', 'Database Administrator II', 'City University of New York, Brooklyn College"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 275, 'Inverse', 'Geological Engineer', 'Universidad Nacional Experimental ""Rafael Maria Baralt"""');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 758, 'stable', 'Director of Sales', 'Kyushu Tokai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 750, 'object-oriented', 'Sales Associate', 'Post University of Waterbury');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 324, 'even-keeled', 'Administrative Officer', 'Amber University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 761, 'multi-tasking', 'VP Marketing', 'Clearwater Christian College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 194, 'Graphical User Interface', 'Dental Hygienist', 'Peace College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 619, 'secured line', 'Help Desk Operator', 'Antioch University Santa Barbara');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 615, 'Front-line', 'Senior Cost Accountant', 'Nuclear Institute for Agriculture and Biology (NIAB)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 256, 'Adaptive', 'Electrical Engineer', 'University of Szczecin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 404, 'standardization', 'Help Desk Technician', 'Universidad Torcuato di Tella');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 665, 'non-volatile', 'Senior Financial Analyst', 'Université Shalom de Bunia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 46, 'user-facing', 'Business Systems Development Analyst', 'Regis College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 891, 'utilisation', 'Speech Pathologist', 'University of Regina');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 500, 'Down-sized', 'Assistant Professor', 'Université Shalom de Bunia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 344, 'Focused', 'Geologist III', 'Murray State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 618, '24 hour', 'VP Marketing', 'National Sports Academy Sofia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 498, 'solution-oriented', 'Design Engineer', 'Nagoya University of Arts');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 515, 'structure', 'Environmental Tech', 'Al-Jabal Al-Gharbi University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 875, 'upward-trending', 'Health Coach I', 'Botswana Accountancy College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 681, 'conglomeration', 'Chief Design Engineer', 'Tuva State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 26, 'Operative', 'Recruiter', 'Posts & Telecommunications Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 299, 'transitional', 'Software Test Engineer IV', 'Nirma University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 110, 'next generation', 'Automation Specialist III', 'University of Education, Winneba"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 328, 'complexity', 'Research Nurse', 'Perdana University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 536, 'Persevering', 'Editor', 'Grenoble Ecole de Management');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 883, 'Graphical User Interface', 'Software Consultant', 'West Liberty State College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 772, 'array', 'Physical Therapy Assistant', ' Université de Nouakchott');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 662, 'Focused', 'Senior Cost Accountant', 'Universidad Cristóbal Colón');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 267, 'Ameliorated', 'Financial Advisor', 'James Cook University of North Queensland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 206, 'instruction set', 'Mechanical Systems Engineer', 'Hamilton Technical College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 812, 'conglomeration', 'Social Worker', 'St. Johns University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 708, 'Multi-tiered', 'Senior Cost Accountant', 'Shaheed Beheshti University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 896, 'Enterprise-wide', 'Research Associate', 'Shandong Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 220, 'migration', 'Programmer II', 'Private Hanseuniversität');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 532, 'methodical', 'Staff Accountant III', 'Mohammad Ali Jinnah University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 393, 'Realigned', 'Librarian', 'Kenya Methodist University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 80, 'Profound', 'Biostatistician II', 'DeVry Institute of Technology, Phoenix"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 617, 'client-driven', 'Research Associate', 'Himeji Dokkyo University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 535, 'access', 'Safety Technician II', 'National Technical University of Athens');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 351, 'moratorium', 'Programmer Analyst III', 'Southwestern Baptist Theological Seminary');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 638, 'Synergized', 'Account Executive', 'Pädagogische Hochschule Freiburg');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 839, 'Diverse', 'Design Engineer', 'Jewish University in Moscow');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 364, 'grid-enabled', 'Web Designer IV', 'Uzima University College ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 194, 'Triple-buffered', 'Database Administrator III', 'Universität Bayreuth');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 781, 'Versatile', 'Developer IV', 'DeVry Institute of Technology, DuPage"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 851, 'Synchronised', 'Research Associate', 'Ashkelon Academic College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 695, 'forecast', 'Civil Engineer', 'Universidad de Vigo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 704, 'discrete', 'Director of Sales', 'Oregon State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 324, 'task-force', 'General Manager', 'Management and Science University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 201, 'fresh-thinking', 'Web Designer IV', 'Changsha Railway University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 888, 'adapter', 'Recruiting Manager', 'Shantou University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 597, 'Balanced', 'Account Representative I', 'Ecole des Hautes Etudes Commerciales MAROC');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 247, 'groupware', 'Director of Sales', 'Universidad Internacional Menéndez Pelayo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 219, 'methodology', 'Account Coordinator', 'Université de Béjaia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 248, 'Centralized', 'Associate Professor', 'Shimane University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 472, 'conglomeration', 'Account Executive', 'Morningside College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 560, 'concept', 'Research Assistant II', 'Mount Sinai School of Medicine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 336, 'static', 'Analyst Programmer', 'Abfi Institute Perbanas Jakarta');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 883, 'De-engineered', 'Recruiter', 'State University of New York at Buffalo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 263, 'grid-enabled', 'VP Sales', 'Ch. Charan Singh University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 306, 'client-server', 'Recruiting Manager', 'Kirksville College of Osteopathic Medicine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 475, '4th generation', 'Human Resources Assistant II', 'Universitas Jambi');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 56, 'client-server', 'Environmental Specialist', 'Korea National University of Physical Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 147, 'bandwidth-monitored', 'Executive Secretary', 'Danish University of Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 611, 'Reduced', 'Pharmacist', 'Ecole Supérieure dAgriculture de Purpan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 658, 'Organized', 'GIS Technical Architect', 'The Art Institute of Boston');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 225, 'full-range', 'Human Resources Manager', 'Al Muthanna University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 324, 'firmware', 'Accountant II', 'Kaohsiung Medical College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 852, 'Devolved', 'Occupational Therapist', 'University of Kashmir');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 593, 'interface', 'Programmer I', 'St. Francis Medical Center College of Nursing');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 789, 'Automated', 'Occupational Therapist', 'Chinese Culture University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 570, 'Balanced', 'Structural Engineer', 'University College of Gävle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 831, 'system engine', 'Developer III', 'Ryerson Polytechnic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 394, 'collaboration', 'Health Coach I', 'Pedagogical University of Czestochowa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 74, 'object-oriented', 'Community Outreach Specialist', 'Marylhurst University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 289, 'Optional', 'Web Developer III', 'Halmstad University College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 392, 'help-desk', 'Environmental Tech', 'Northwest Normal University Lanzhou');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 879, 'fault-tolerant', 'Sales Associate', 'Northeastern Ohio University College of Medicine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 735, 'dedicated', 'Nuclear Power Engineer', 'Ecole Nationale Supérieure du Pétrole et des Monteurs');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 730, 'object-oriented', 'Senior Sales Associate', 'Tokyo Metropolitan University of Health Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 556, 'grid-enabled', 'Director of Sales', 'Otto-Friedrich Universität Bamberg');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 815, 'Object-based', 'Statistician IV', 'Iran University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 55, 'Universal', 'Actuary', 'Trinity International University (Excel), Miami"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 702, 'multimedia', 'Software Consultant', 'Rochester Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 186, 'Persevering', 'Web Designer IV', 'Nanjing University of Aeronautics and Astronautics');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 775, 'zero defect', 'Quality Engineer', 'Birmingham-Southern College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 493, 'contingency', 'Physical Therapy Assistant', 'Osaka Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 128, 'Function-based', 'Pharmacist', 'National Taiwan University of Science and Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 56, 'Re-engineered', 'Account Executive', 'Western Maryland College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 851, 'focus group', 'Business Systems Development Analyst', 'Cheljabinsk State Institute of Teacher Training');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 745, 'web-enabled', 'Computer Systems Analyst I', 'Dogus University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 846, 'Multi-lateral', 'Accountant III', 'University of Veterinary Medicine in Kosice');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 802, 'motivating', 'Nurse', 'Politécnico de Guanajuato');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 25, 'policy', 'Desktop Support Technician', 'Ecole Nationale Supérieure des Mines de Douai');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 644, '5th generation', 'Web Designer II', 'University of Maryland at College Park');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 596, 'Multi-channelled', 'Assistant Manager', 'Technische Universität Ilmenau');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 899, '6th generation', 'Senior Quality Engineer', 'Cag University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 806, 'intermediate', 'Senior Sales Associate', 'College for Creative Studies');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 210, 'cohesive', 'VP Accounting', 'Hosei University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 412, 'benchmark', 'Graphic Designer', 'National University of Samoa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 715, 'Ameliorated', 'Assistant Professor', 'Capitol College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 493, 'Future-proofed', 'Actuary', 'Deutsche Sporthochschule Köln');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 99, 'functionalities', 'Occupational Therapist', 'National Pedagogical University M. Dragomanov ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 762, 'dedicated', 'Office Assistant III', 'Arkansas State University, Newport"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 46, 'next generation', 'Business Systems Development Analyst', 'Ecole Supérieure de Commerce de Sophia Antipolis');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 214, 'Profit-focused', 'Operator', 'National Taipei College of Nursing');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 352, 'Synergistic', 'Administrative Officer', 'Shizuoka Sangyo University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 842, 'Optional', 'Environmental Tech', 'Royal University of Fine Arts');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 504, 'dedicated', 'Editor', 'University of Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 523, 'regional', 'Assistant Professor', 'Dubai Pharmacy College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 636, 'systematic', 'Mechanical Systems Engineer', 'Royal University of Law and Economics');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 747, 'circuit', 'Nurse Practicioner', 'Shanxi Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 587, 'fault-tolerant', 'Research Assistant IV', 'Islamic Azad University, Shahrood"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 840, 'analyzing', 'Help Desk Operator', 'Universitat Jaume I de Castellón');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 105, 'Optimized', 'Editor', 'Academy of Arts ""George Enescu"" Iasi"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 258, 'value-added', 'Director of Sales', 'University of Birmingham');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 263, 'Mandatory', 'Teacher', 'Chiang Mai Rajabhat University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 81, 'projection', 'Desktop Support Technician', 'Dirección General de Institutos Tecnológicos');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 237, 'process improvement', 'Chemical Engineer', 'Mimasaka Womens College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 437, 'architecture', 'Account Representative IV', 'University of Maryland Baltimore County');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 81, 'orchestration', 'GIS Technical Architect', 'Technological Education Institute of Lamia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 559, '24 hour', 'Internal Auditor', 'College of Science, Baghdad University"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 502, 'standardization', 'Speech Pathologist', 'University of Teesside');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 532, 'task-force', 'Cost Accountant', 'French University in Armenia (UFAR)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 558, 'Innovative', 'Executive Secretary', 'Mary Washington College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 347, 'Ergonomic', 'Research Assistant III', 'The Federal Polytechnic Offa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 660, 'alliance', 'Automation Specialist I', 'Campbell University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 140, 'value-added', 'Research Nurse', 'Nanjing Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 405, 'eco-centric', 'Environmental Specialist', 'Catholic University of Lublin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 843, 'grid-enabled', 'Paralegal', 'Institucion Universitaria de Envigado');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 438, 'empowering', 'Design Engineer', 'University of Bristol');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 644, 'cohesive', 'Payment Adjustment Coordinator', 'Université Julius Nyerere Kankan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 780, 'parallelism', 'Human Resources Assistant IV', 'Institut Textile et Chimique de Lyon');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 386, 'system engine', 'Physical Therapy Assistant', 'Alhosn University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 274, 'Realigned', 'Computer Systems Analyst II', 'University of Central Arkansas');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 888, 'analyzer', 'Nurse', 'Ecole Nationale de la Statistique et de lAdministration Economique');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 417, 'Profound', 'Quality Engineer', 'University ""Transilvany"" of Brasov"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 590, 'complexity', 'VP Marketing', 'Taif University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 474, 'didactic', 'Pharmacist', 'Universidad de Manizales');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 46, 'open system', 'Community Outreach Specialist', 'Southern Illinois University at Edwardsville');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 805, 'Self-enabling', 'Account Executive', 'NED University of Engineering and Technology Karachi');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 633, 'client-driven', 'Quality Control Specialist', 'Upper Nile University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 640, 'optimizing', 'Structural Engineer', 'Universidad Nacional Agraria de la Selva');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 562, 'local area network', 'Internal Auditor', 'Politécnico Columbiano ""Jaime Isaza Cadavid"""');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 563, 'leverage', 'Account Executive', 'Himeji Dokkyo University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 292, 'emulation', 'Teacher', 'Korea National University of Physical Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 153, 'Visionary', 'Human Resources Manager', 'Universitas Mataram');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 213, 'transitional', 'Nurse', 'Institute of Business Administration (IBA)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 438, 'Virtual', 'Marketing Assistant', 'Hosei University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 301, 'value-added', 'Design Engineer', 'Islamic Azad University, Mahshar"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 403, 'software', 'Senior Financial Analyst', 'Universidade Federal do Piauí');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 107, 'disintermediate', 'Engineer I', 'Tehran University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 627, 'Virtual', 'Community Outreach Specialist', 'Universidad de Puerto Rico, Mayaguez"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 274, 'monitoring', 'Programmer II', 'Kakatiya University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 624, 'function', 'Product Engineer', 'Université dArtois');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 824, 'Front-line', 'Software Consultant', 'Appalachian Bible College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 544, 'context-sensitive', 'Biostatistician II', 'University of Macau');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 656, 'firmware', 'Safety Technician III', 'University of Sarajevo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 649, 'emulation', 'Engineer III', 'Pennsylvania State University Delaware County');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 859, 'Upgradable', 'Civil Engineer', 'University of Dublin, Trinity College"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 89, 'Synchronised', 'Business Systems Development Analyst', 'Feati University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 187, 'Face to face', 'Senior Quality Engineer', 'Universidade de Santo Amaro');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 389, 'success', 'Senior Sales Associate', 'North East University Bangladesh');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 626, '5th generation', 'Financial Advisor', 'Goldey-Beacom College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 164, 'fresh-thinking', 'Civil Engineer', 'Universidad Nuevo Mundo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 33, 'Fundamental', 'Statistician I', 'Nugaal University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 298, 'mission-critical', 'Software Test Engineer I', 'Tokai Gakuen University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 767, 'User-centric', 'Quality Engineer', 'Université de Gabès');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 224, 'process improvement', 'Legal Assistant', 'Universidad Maimónides');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 282, 'homogeneous', 'Assistant Media Planner', 'Auburn University at Montgomery');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 899, 'clear-thinking', 'Senior Quality Engineer', 'Northeastern University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 888, 'zero tolerance', 'Research Nurse', 'Kennesaw State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 7, 'Adaptive', 'Help Desk Operator', 'Stratford College London');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 628, 'service-desk', 'Developer IV', 'University of the South Pacific');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 503, 'dedicated', 'VP Product Management', 'Moscow State Automobile and Road Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 385, 'asynchronous', 'Legal Assistant', 'Xiangtan Normal University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 380, 'moratorium', 'Community Outreach Specialist', 'Koforidua Polytechnic ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 554, 'multi-tasking', 'General Manager', 'Fujian University of Traditional Chinese Medicine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 12, 'utilisation', 'Pharmacist', 'Awadhesh Pratap Singh University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 186, 'national', 'Account Executive', 'University of Houston');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 163, 'artificial intelligence', 'Systems Administrator III', 'Nicholls State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 683, 'website', 'Administrative Officer', 'Busitema University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 562, 'user-facing', 'Desktop Support Technician', 'Hamdan Bin Mohammed e-University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 430, 'encoding', 'Senior Financial Analyst', 'North Carolina Wesleyan College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 138, 'background', 'Tax Accountant', 'Shimer College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 422, 'Multi-layered', 'Automation Specialist II', 'Universidad de Talca');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 708, 'Programmable', 'Payment Adjustment Coordinator', 'Qinghai Radio & Television University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 132, 'Up-sized', 'Assistant Media Planner', 'Pak-AIMS (American Institute of Management Sciences)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 390, 'leverage', 'Engineer IV', 'Universidad Católica Boliviana, La Paz"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 8, 'Multi-lateral', 'Help Desk Operator', 'European Humanities University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 215, 'success', 'Quality Control Specialist', 'National Theatre Conservatory');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 551, 'systematic', 'Registered Nurse', 'Islamic Azad University, Tehran South"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 746, 'synergy', 'Payment Adjustment Coordinator', 'Surugadai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 259, 'Centralized', 'Junior Executive', 'University of Seychelles - American Institute of Medicine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 563, 'complexity', 'Statistician III', 'Evergreen State College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 204, 'tertiary', 'Director of Sales', 'Shaheed Chamran University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 878, 'Optimized', 'Environmental Specialist', 'Massachusetts Maritime Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 898, 'Progressive', 'Media Manager II', 'Faculdades Integradas Curitiba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 570, 'solution-oriented', 'Software Engineer IV', 'Foreign Trade University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 63, 'core', 'Data Coordiator', 'Al-Baath University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 329, 'neural-net', 'Systems Administrator IV', 'Pace University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 290, 'system engine', 'Safety Technician IV', 'University of Nizwa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 224, 'Polarised', 'Technical Writer', 'Université de Gafsa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 466, 'fresh-thinking', 'Structural Analysis Engineer', 'Universitas Kristen Petra');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 717, 'project', 'Human Resources Manager', 'Southwest Missouri State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 564, 'algorithm', 'Senior Editor', 'William Carey College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 282, 'Diverse', 'Senior Editor', 'The Kingdom University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 466, 'disintermediate', 'Marketing Assistant', 'Maryville University of St. Louis');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 365, 'zero tolerance', 'Geologist I', 'Kobe Womens University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 862, 'Streamlined', 'Marketing Manager', 'Changchun University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 699, '6th generation', 'Clinical Specialist', 'Deaconess College of Nursing');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 322, 'open architecture', 'VP Accounting', 'Josai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 686, 'access', 'Technical Writer', 'Finnmark University College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 81, 'Up-sized', 'Human Resources Assistant III', 'SMK Fomra Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 107, 'firmware', 'VP Accounting', 'Ecole Nationale Supérieure Agronomique de Toulouse');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 430, 'asynchronous', 'Engineer II', 'University of the Punjab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 523, 'collaboration', 'Marketing Manager', 'Zuyd University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 806, 'cohesive', 'Software Engineer II', 'Jönköping University College of Health Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 44, 'Re-engineered', 'Programmer II', 'Concordia University, Portland"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 122, 'Networked', 'Business Systems Development Analyst', 'Institut des Sciences de la Matière et du Rayonnement');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 808, 'portal', 'Senior Quality Engineer', 'Pennsylvania State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 753, 'reciprocal', 'Director of Sales', 'Western Washington University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 329, 'success', 'Graphic Designer', 'Instituto Politécnico Nacional');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 373, 'flexibility', 'GIS Technical Architect', 'Institucion Universitaria de Envigado');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 215, 'local area network', 'Programmer II', 'Universidad Autónoma de Chihuahua');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 218, 'exuding', 'Administrative Officer', 'Kobe Design University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 714, 'maximized', 'Assistant Professor', 'Zarka Private University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 837, 'utilisation', 'Human Resources Manager', 'DIPLOMA-Fachhochschule Ölsnitz/Vogtland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 779, 'adapter', 'Quality Engineer', 'Universidad de Córdoba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 596, 'collaboration', 'Web Designer III', 'Cambridge College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 883, 'Grass-roots', 'Physical Therapy Assistant', 'Assumption University of Thailand');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 853, 'motivating', 'VP Accounting', 'Oulu Polytechnic');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 497, 'local', 'Research Assistant II', 'Université de Sherbrooke');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 568, 'Multi-tiered', 'Desktop Support Technician', 'Sambalpur University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 177, 'encompassing', 'Assistant Manager', 'St. Petersburg State Medical Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 334, 'Grass-roots', 'Financial Advisor', 'International University of Kyrgyzstan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 604, 'Enhanced', 'Cost Accountant', 'Arak University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 132, 'local', 'Geological Engineer', 'Kuban State University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 761, 'implementation', 'Actuary', 'Swiss German University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 583, 'motivating', 'Food Chemist', 'Capital University Law School');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 530, 'User-friendly', 'Web Designer IV', 'Norwegian School of Management BI');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 370, 'secondary', 'Environmental Specialist', 'University of Kota');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 258, 'Robust', 'Help Desk Operator', 'Ecole Nationale de lAviation Civile');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 802, 'Customizable', 'Senior Sales Associate', 'St. Pauls University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 498, 'benchmark', 'Media Manager III', 'Pädagogische Hochschule Zürich (Zurich School of Education)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 647, 'multi-tasking', 'Senior Cost Accountant', 'Georgetown College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 225, 'zero tolerance', 'Help Desk Technician', 'Russian State Hydrometeorological University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 695, 'Devolved', 'Web Developer IV', 'Universidad La Salle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 334, 'Expanded', 'Executive Secretary', 'Karel De Grote Hogeschool');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 291, 'dedicated', 'Graphic Designer', 'Universidad de Sonora');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 786, 'regional', 'Geologist IV', 'Hazara University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 660, 'Visionary', 'Web Designer III', 'Shenyang Polytechnic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 776, 'exuding', 'Engineer I', 'University of Colombo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 658, 'solution', 'VP Quality Control', 'Atlantic Union College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 154, 'Self-enabling', 'Geologist IV', 'Khazar University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 465, 'product', 'Occupational Therapist', 'SRH University of Applied Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 794, 'zero defect', 'Electrical Engineer', 'University of Lincoln');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 855, 'solution', 'Assistant Professor', 'University of Zimbabwe');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 142, 'protocol', 'Computer Systems Analyst II', 'Universidad Miguel de Cervantes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 650, 'conglomeration', 'Staff Accountant IV', 'South Florida Bible College & Theological Seminary');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 571, 'Devolved', 'Financial Analyst', 'Kahramanmaras Sütcü Imam University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 166, 'superstructure', 'Geologist IV', 'University of Cambridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 512, 'hardware', 'Senior Developer', 'St. Petersburg Institute of Sales Management and Economics');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 140, 'intermediate', 'Account Representative III', 'Medical Academy in Wroclaw');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 603, 'standardization', 'Statistician I', 'Mindanao State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 241, 'regional', 'Quality Engineer', 'University Tun Abdul Razak');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 388, 'human-resource', 'Food Chemist', 'Knox College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 196, 'Synchronised', 'Speech Pathologist', 'University of Wisconsin - Stout');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 640, 'installation', 'Registered Nurse', 'Australian Catholic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 444, 'Team-oriented', 'VP Product Management', 'Abilene Christian University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 511, 'bottom-line', 'General Manager', 'University of Genoa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 102, 'well-modulated', 'Pharmacist', 'University of Engineering and Technology Taxila');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 256, 'Secured', 'Biostatistician I', 'Music Academy ""Karol Szymanowski"" in Katowice"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 545, 'paradigm', 'Biostatistician IV', 'Lorestan University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 725, 'systemic', 'Systems Administrator I', 'University of South Carolina - Union');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 19, 'data-warehouse', 'Nurse Practicioner', 'Universidad Nacional de San Cristóbal de Huamanga');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 389, 'process improvement', 'Accounting Assistant IV', 'University of West Alabama');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 508, 'zero administration', 'Human Resources Manager', 'Universitas 17 Agustus 1945 Cirebon');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 772, 'success', 'GIS Technical Architect', 'Pes University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 702, 'Balanced', 'Human Resources Assistant I', 'North University of Baia Mare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 873, 'next generation', 'Clinical Specialist', 'Universidad Cristóbal Colón');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 733, 'explicit', 'Civil Engineer', 'Hochschule für Technik und Wirtschaft Dresden (FH)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 448, 'system engine', 'Design Engineer', 'Universidad de Aquino Bolivia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 545, 'complexity', 'Occupational Therapist', 'Universidad Intercontinental');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 414, 'coherent', 'Technical Writer', 'Ecole Supérieure dInformatique et de Management');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 673, 'transitional', 'Technical Writer', 'Hogere Zeevaartschool - Maritime Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 660, 'zero defect', 'Statistician I', 'Georgetown University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 741, 'logistical', 'Account Representative I', 'Universidad de Puerto Rico, Bayamon"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 707, 'Public-key', 'VP Quality Control', 'Kagoshima University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 108, 'Monitored', 'Project Manager', 'Sullivan College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 880, 'regional', 'Administrative Officer', 'Universidad Casa Grande');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 815, 'non-volatile', 'Database Administrator II', 'Nara University of Commerce');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 898, 'product', 'Senior Quality Engineer', 'Dunya Institute of Higher Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 754, 'Graphic Interface', 'Librarian', 'Université de Chlef');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 388, 'interactive', 'Actuary', 'University of Sheffield');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 88, 'contingency', 'Office Assistant IV', 'University of North West');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 614, 'object-oriented', 'Clinical Specialist', 'Université Alioune Diop de Bambey');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 623, 'Vision-oriented', 'Research Assistant III', 'Kazan State University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 278, 'Phased', 'Design Engineer', 'Vaganova Academy of Russian Ballet');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 123, 'Monitored', 'Administrative Officer', 'Manipur University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 515, 'regional', 'Senior Developer', 'Sagami Womens University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 222, 'algorithm', 'Data Coordiator', 'University of Southeastern Philippines');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 630, 'foreground', 'Civil Engineer', 'Instituto Superior de Transportes e Comunicações');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 773, 'data-warehouse', 'Teacher', 'Universidad Nacional del Sur');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 532, 'real-time', 'Web Designer IV', 'Kyunghee University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 26, 'Optional', 'Senior Financial Analyst', 'Georgia State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 820, 'Centralized', 'Tax Accountant', 'Chubu University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 858, 'actuating', 'Software Engineer IV', 'Hawassa University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 332, 'groupware', 'Junior Executive', 'Camosun College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 624, 'Sharable', 'Internal Auditor', 'Albany College of Pharmacy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 630, 'Advanced', 'Payment Adjustment Coordinator', 'Kyushu Womens University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 849, 'exuding', 'Technical Writer', 'North China University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 695, 'mission-critical', 'Assistant Manager', 'Uzbek State World Languages University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 803, 'encryption', 'Geologist IV', 'Universidad de El Salvador');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 536, 'hybrid', 'Financial Analyst', 'Babasaheb Bhimrao Ambedkar University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 159, 'motivating', 'GIS Technical Architect', 'Nanhua University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 856, 'Exclusive', 'Tax Accountant', 'French Institute of Management');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 358, 'responsive', 'Office Assistant I', 'Christian Theological Academy in Warszaw');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 653, 'middleware', 'Clinical Specialist', 'Hong Kong Polytechnic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 345, 'Monitored', 'Human Resources Manager', 'University of Southampton');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 190, 'human-resource', 'Environmental Specialist', 'The American University in London');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 793, 'Stand-alone', 'Assistant Professor', 'Fourah Bay College, University of Sierra Leone"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 55, 'web-enabled', 'Senior Quality Engineer', 'Universidade Estadual de Montes Claros');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 476, 'tangible', 'Product Engineer', 'Veer Surendra Sai University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 582, 'Universal', 'Accountant IV', 'Ecole Supérieure dIngénieurs en Génie Electrique');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 822, 'Organic', 'Sales Representative', 'Pomeranian Academy of Medicine in Szczecin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 244, 'neutral', 'Automation Specialist I', 'Polytechnic of Namibia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 410, 'high-level', 'Chief Design Engineer', 'Rock Valley College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 141, 'tangible', 'Senior Cost Accountant', 'Escuela Colombiana de Ingeniería Julio Garavito');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 95, 'content-based', 'Senior Financial Analyst', 'Vikrama Simhapuri University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 49, 'standardization', 'Clinical Specialist', 'Morgan State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 755, 'Up-sized', 'Marketing Assistant', 'Moscow State Academy of Applied Biotechnology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 737, 'standardization', 'Speech Pathologist', 'State University of New York at Oswego');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 244, 'tangible', 'Programmer I', 'Northeastern University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 207, 'web-enabled', 'Assistant Professor', 'University “Pavaresia” Vlore');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 778, 'instruction set', 'Health Coach IV', 'Universitas Advent Indonesia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 888, 'open system', 'General Manager', 'Nordic School of Public Health');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 393, 'contingency', 'Software Engineer IV', 'Technological Education Institute of Kalamata');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 223, '24-jul', 'Environmental Tech', 'Islamic Azad University, Shahr-e-rey Branch"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 239, 'multi-state', 'Internal Auditor', 'Ufa State Aviation Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 649, 'Cloned', 'Systems Administrator I', 'Lampang Rajabhat University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 789, 'parallelism', 'Business Systems Development Analyst', 'Pontificia Università Lateranense');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 379, 'intangible', 'Marketing Manager', 'Dominican College of San Rafael');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 539, 'uniform', 'Account Coordinator', 'Pázmány Péter Catholic University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 847, 'Progressive', 'Data Coordiator', 'Université de Fianarantsoa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 226, 'systemic', 'Quality Engineer', 'Chongju University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 278, 'even-keeled', 'Civil Engineer', 'Zonguldak Karaelmas University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 814, 'portal', 'Desktop Support Technician', 'Leyte State University ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 629, 'local area network', 'Registered Nurse', 'Parsons School of Design');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 39, 'cohesive', 'Compensation Analyst', 'Shri Jagannath Sanskrit University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 822, 'Proactive', 'Business Systems Development Analyst', 'Universidad de León');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 655, 'pricing structure', 'Staff Accountant II', 'Albright College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 394, 'global', 'VP Marketing', 'COMSATS Institute of Information Technology, Lahore"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 183, 'capacity', 'Help Desk Technician', 'Mawlana Bhashani Science And Technology University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 844, 'model', 'Actuary', 'University of Primorska');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 40, 'Multi-channelled', 'Financial Analyst', 'Yalova University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 183, 'Pre-emptive', 'Physical Therapy Assistant', 'Asa University Bangladesh');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 95, 'User-centric', 'Account Coordinator', 'University College Dublin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 151, 'didactic', 'Assistant Manager', 'Showa Womens University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 554, 'structure', 'Account Executive', 'Universidad Eugenio Maria de Hostos');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 696, 'info-mediaries', 'Marketing Assistant', 'University of Bath');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 143, 'instruction set', 'Cost Accountant', 'College of Notre Dame of Maryland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 894, 'bandwidth-monitored', 'Senior Financial Analyst', 'Karpagam University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 725, 'product', 'Community Outreach Specialist', 'Aichi Gakuin University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 489, '3rd generation', 'Senior Developer', 'Ecole Nationale Supérieure de Chimie de Clermont-Ferrand');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 93, 'customer loyalty', 'Junior Executive', 'Suffolk University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 78, 'Multi-channelled', 'Nurse Practicioner', 'Hamline University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 865, 'installation', 'Senior Developer', 'Chalmers University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 868, 'benchmark', 'Programmer I', 'Academy of Economic Studies of Moldova');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 718, 'model', 'Director of Sales', 'University of Utah');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 475, 'matrices', 'Staff Scientist', 'Universidad de Aquino Bolivia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 275, 'emulation', 'Mechanical Systems Engineer', 'Blue Mountains Hotel School');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 704, 'Advanced', 'Software Engineer IV', 'University of Surrey');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 677, 'leading edge', 'Civil Engineer', 'Instituto de Enseñanza Superior del Ejército');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 324, '24 hour', 'Nurse Practicioner', 'Sichuan University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 833, 'Upgradable', 'Community Outreach Specialist', 'Najaf Abad University of Applied Science and Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 126, 'Quality-focused', 'Help Desk Operator', 'Mahatma Phule Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 126, 'archive', 'Speech Pathologist', 'Universidad Autónoma de Occidente');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 620, 'Down-sized', 'Safety Technician II', 'Universidad de Quintana Roo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 389, 'Universal', 'Geological Engineer', 'Universidade Ibirapuera');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 514, 'interactive', 'Data Coordiator', 'French Institute of Management');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 482, 'well-modulated', 'Programmer Analyst III', 'Bow Valley College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 245, 'Public-key', 'Associate Professor', 'Universidade de Santo Amaro');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 538, 'Function-based', 'Director of Sales', 'Atlanta College of Art');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 680, 'context-sensitive', 'Help Desk Technician', 'Rajasthan Agricultural University, Bikaner"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 713, 'access', 'Programmer Analyst III', 'Islamic Azad University, Ahar"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 639, 'Profound', 'Librarian', 'Université Blaise Pascal (Clermont-Ferrand II)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 655, 'content-based', 'Structural Engineer', 'Facultés Universitaires Saint-Louis');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 357, 'success', 'Health Coach II', 'Universidad Católica de Salta');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 83, 'functionalities', 'Automation Specialist I', 'Far Eastern University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 306, 'Front-line', 'Internal Auditor', 'Jagran Lakecity University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 859, 'Reverse-engineered', 'Food Chemist', 'Swiss Federal Institute of Technology, Zurich"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 27, 'archive', 'Marketing Assistant', 'Islamic Azad University, Shirvan"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 534, 'system-worthy', 'Staff Accountant II', 'Universidad Autónoma de San Luis Potosí');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 78, 'Innovative', 'Chief Design Engineer', 'Shenyang Institute of Chemical Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 783, 'Universal', 'Occupational Therapist', 'Sterling College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 399, 'Synergized', 'Administrative Assistant III', 'Technological University (Taunggyi)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 370, 'neural-net', 'Data Coordiator', 'Universidad Madero');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 625, 'circuit', 'Quality Control Specialist', 'Universidad Latinoamericana de Ciencia y Tecnología');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 67, 'conglomeration', 'Associate Professor', 'University of Kordofan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 293, 'Polarised', 'Office Assistant IV', 'Yanbu University College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 356, 'productivity', 'Quality Control Specialist', 'Aichi Bunkyo University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 212, 'explicit', 'Administrative Assistant II', 'National Technical University (Kharkiv Polytechnical Institute)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 354, 'mission-critical', 'Account Executive', 'Athens University of Economics and Business');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 784, 'Multi-lateral', 'VP Sales', 'Western University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 282, 'optimal', 'Physical Therapy Assistant', 'Gdynia Maritime Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 377, 'secondary', 'Assistant Media Planner', 'Abilene Christian University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 458, 'multi-state', 'Desktop Support Technician', 'Baker College of Port Huron');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 241, 'optimal', 'Nurse', 'National Medical University O.O. Bogomolets');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 844, 'Networked', 'Tax Accountant', 'University of Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 349, 'utilisation', 'Payment Adjustment Coordinator', 'Manila Central University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 119, 'Compatible', 'Research Associate', 'Universidad Academia de Humanismo Cristiano');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 488, 'productivity', 'Registered Nurse', 'Ashland University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 653, 'Function-based', 'Recruiter', 'Purdue University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 757, 'budgetary management', 'Staff Scientist', 'Bangladesh Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 583, 'Visionary', 'Quality Control Specialist', 'Daito Bunka University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 788, 'database', 'Automation Specialist IV', 'Brno University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 26, 'systematic', 'Programmer II', 'University of KwaZulu-Natal');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 53, 'moratorium', 'Statistician IV', 'Ningbo University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 501, 'Face to face', 'Executive Secretary', 'Universitas Kristen Krida Wacana');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 305, 'Extended', 'Accountant II', 'Arizona Christian University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 235, 'regional', 'Environmental Tech', 'St. Petersburg State Agrarian University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 98, 'secured line', 'Technical Writer', 'Ecole Nationale des Travaux Publics de lEtat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 855, 'Down-sized', 'Accountant II', 'EUCLID University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 653, 'regional', 'Senior Editor', 'Franklin W. Olin College of Engineering');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 421, 'Innovative', 'Database Administrator I', 'College of Notre Dame of Maryland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 814, 'global', 'Data Coordiator', 'Universidad Privada Juan Mejía Baca');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 698, 'intermediate', 'Systems Administrator IV', 'Breyer State University (Virtual University)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 337, 'bandwidth-monitored', 'Account Representative IV', 'Ningbo University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 806, 'Face to face', 'Administrative Assistant III', 'Yeshiva University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 304, 'methodology', 'Social Worker', 'Istanbul Ticaret University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 518, 'standardization', 'Research Nurse', 'Fort Hays State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 664, 'instruction set', 'Payment Adjustment Coordinator', 'Ballsbridge University ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 610, 'Decentralized', 'Physical Therapy Assistant', 'Silesian School of Economics and Languages');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 476, 'Re-contextualized', 'VP Quality Control', 'Valley City State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 787, 'Diverse', 'Programmer Analyst III', 'Trisakti Institute of Tourism ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 46, 'heuristic', 'Account Coordinator', 'Universidad del Cauca');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 411, 'structure', 'Accounting Assistant II', 'Université Panthéon-Assas (Paris II)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 713, 'Enhanced', 'Teacher', 'University of Sunderland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 254, 'Reactive', 'Compensation Analyst', 'Universidade Federal de Santa Maria');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 718, 'open system', 'Financial Advisor', 'Pontificio Istituto Orientale');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 696, 'Synchronised', 'Web Developer I', 'Brooks Institute of Photography');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 824, 'bi-directional', 'Pharmacist', 'Hakodate University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 464, 'function', 'Librarian', 'Lancaster University Ghana');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 876, 'user-facing', 'Electrical Engineer', 'Universidad Latinoamericana de Ciencia y Tecnologia, Panamá"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 27, 'archive', 'Account Executive', 'Universidad Latinoamericana de Ciencia y Tecnologia, Panamá"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 898, 'context-sensitive', 'Statistician III', 'University College of Saint-Boniface');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 83, 'analyzer', 'Analog Circuit Design manager', 'Benson Idahosa University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 100, 'complexity', 'Graphic Designer', 'Southern Adventist University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 786, 'instruction set', 'Director of Sales', 'Institut des hautes études économiques et commerciales');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 83, 'Cross-platform', 'Software Consultant', 'National American University, Denver"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 561, 'mission-critical', 'Office Assistant II', 'California State University, Monterey Bay"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 830, 'internet solution', 'Senior Financial Analyst', 'University of Dallas');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 164, 'Centralized', 'Developer I', 'Tanta University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 345, 'User-friendly', 'Legal Assistant', 'Taejon University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 39, 'Reactive', 'Clinical Specialist', 'Omsk State Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 157, 'directional', 'Research Assistant III', 'Payame Noor University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 231, 'Visionary', 'Research Assistant IV', 'Trinity University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 610, 'Customer-focused', 'GIS Technical Architect', 'Queen Mary and Westfield College, University of London"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 455, 'User-centric', 'Research Nurse', 'Université Sidi Mohammed Ben Abdellah');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 269, 'process improvement', 'Financial Advisor', 'Muskingum College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 70, 'analyzing', 'Senior Financial Analyst', 'Palawan State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 39, 'ability', 'Nurse Practicioner', 'Osaka Institute of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 890, 'local', 'Assistant Manager', 'Grantham University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 717, 'Ameliorated', 'Accounting Assistant I', 'Shih Chien University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 570, 'Stand-alone', 'Occupational Therapist', 'Higher Colleges of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 483, 'Inverse', 'Speech Pathologist', 'United States Military Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 645, 'Face to face', 'Administrative Assistant II', 'Perm State Medical Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 426, 'Innovative', 'Compensation Analyst', 'University of Arkansas (System)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 318, 'project', 'Quality Engineer', 'Yokohama City University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 727, 'Compatible', 'Staff Scientist', 'National Taiwan College of Arts');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 39, 'methodology', 'Senior Cost Accountant', 'Universiti Kuala Lumpur');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 510, 'Persistent', 'Health Coach II', 'Universitas Gunadarma');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 851, 'Monitored', 'Chemical Engineer', 'Université de Montpellier I');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 247, 'access', 'Community Outreach Specialist', 'Technical University of Civil Engineering Bucharest');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 767, 'structure', 'Nurse', 'University Of Hawaii - System');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 475, 'Triple-buffered', 'Marketing Manager', 'University of Northern Bahr El-Ghazal');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 706, 'scalable', 'Community Outreach Specialist', 'Fachhochschule JOANNEUM');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 301, 'standardization', 'Dental Hygienist', 'University of Macau');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 493, 'client-driven', 'Assistant Professor', 'Pittsburg State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 445, 'artificial intelligence', 'Nurse', 'University of Berne');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 63, 'architecture', 'Design Engineer', 'Universiti Tun Abdul Razak');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 655, 'projection', 'Assistant Professor', 'Kwangwoon University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 621, 'Optional', 'Software Consultant', 'State University of West Georgia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 649, 'instruction set', 'Marketing Assistant', 'University of Nebraska (System)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 546, '24-jul', 'Environmental Specialist', 'University of Chester');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 114, 'scalable', 'VP Accounting', 'Universidad Francisco de Paula Santander');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 602, 'Implemented', 'Senior Editor', 'Universidad de Puerto Rico, Cayey"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 807, 'Automated', 'Systems Administrator IV', 'Universiti Pendidikan Sultan Idris');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 352, 'Grass-roots', 'Financial Analyst', 'Phillips University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 579, 'tertiary', 'Automation Specialist III', 'University of Engineering and Technology Lahore');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 509, 'Multi-tiered', 'Staff Scientist', 'Universidad Abierta Para Adultos');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 674, 'help-desk', 'Software Engineer II', 'Athabasca University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 813, 'service-desk', 'VP Marketing', 'Ural State Forestry Technical Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 734, 'exuding', 'Compensation Analyst', 'Texas Chiropractic College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 596, 'didactic', 'Quality Engineer', 'Lahti Polytechnic');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 664, 'application', 'Staff Scientist', 'Fitchburg State College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 785, 'secondary', 'Civil Engineer', 'Technical University of Liberec');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 571, 'complexity', 'Civil Engineer', 'Universidad Justo Sierra');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 619, 'Self-enabling', 'Pharmacist', 'Birsk State Pedagogical Institute');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 848, 'Phased', 'Payment Adjustment Coordinator', 'George Mason University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 308, 'internet solution', 'Senior Developer', 'Tiraspol State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 430, 'Vision-oriented', 'Administrative Officer', 'Korea National University of Physical Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 548, 'functionalities', 'Account Representative IV', 'Hochschule für Philosophie München');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 808, 'Open-source', 'Mechanical Systems Engineer', 'North West Frontier Province Agricultural University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 502, 'mobile', 'Marketing Manager', 'Tezukayama University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 520, 'eco-centric', 'Analyst Programmer', 'Miyagi University of Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 280, 'synergy', 'Financial Analyst', 'Islamic Azad University, Majlesi"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 57, 'multi-state', 'Geologist I', 'Akrofi-Christaller Institute of Theeology, Mission and  Culture"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 622, 'projection', 'Food Chemist', 'Université de Technologie de Troyes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 762, 'installation', 'Automation Specialist I', 'Akademia Podlaska');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 824, 'Focused', 'Marketing Manager', 'Benedict College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 470, 'alliance', 'Administrative Officer', 'Central University of Technology, Free State"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 843, 'motivating', 'Chemical Engineer', 'Victoria University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 774, 'definition', 'Analyst Programmer', 'Camosun College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 217, 'application', 'Chief Design Engineer', 'Instituto Tecnologico de Durango');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 767, 'framework', 'Software Test Engineer III', 'Ecole Nationale Supérieure de Chimie de Rennes');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 304, 'value-added', 'Food Chemist', 'University of North Carolina at Pembroke');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 762, 'optimizing', 'Junior Executive', 'Universidad San Francisco Xavier de Chuquisaca');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 764, 'monitoring', 'Teacher', 'Bushehr University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 268, 'Progressive', 'Executive Secretary', 'DePauw University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 548, 'bandwidth-monitored', 'Analog Circuit Design manager', 'Universidad Atlantida Argentina');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 520, 'Fully-configurable', 'Human Resources Manager', 'Fachhochschule Offenburg, Hochschule für Technik und Wirtschaft"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 182, 'non-volatile', 'Programmer IV', 'Universidade Gregorio Semedo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 577, 'interface', 'Geological Engineer', 'McPherson College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 43, 'Versatile', 'Software Consultant', 'University ""Aurel Vlaicu"" Arad"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 350, 'benchmark', 'Professor', 'Hendrix College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 338, 'Networked', 'Account Representative I', 'International Higher School for Advanced Studies Trieste');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 508, 'disintermediate', 'Programmer IV', 'Universidad Gabriela Mistral');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 132, 'scalable', 'Community Outreach Specialist', 'University of Queensland');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 203, 'Managed', 'Engineer III', 'Police Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 328, 'grid-enabled', 'Programmer Analyst IV', 'Ekiti State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 506, 'Organic', 'Pharmacist', 'School for International Training');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 269, 'Face to face', 'Internal Auditor', 'Brookdale Community College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 109, 'Ergonomic', 'Senior Sales Associate', 'Aarhus School of Architecture');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 424, 'optimal', 'Registered Nurse', 'Aristotle University of Thessaloniki');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 254, 'content-based', 'Account Coordinator', 'Universidade de Coimbra');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 74, 'asymmetric', 'Desktop Support Technician', 'University of Sadat City');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 463, 'frame', 'Community Outreach Specialist', 'University of Human Development (Kurdistan Region)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 11, 'time-frame', 'Chief Design Engineer', 'Bartlesville Wesleyan College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 408, 'encryption', 'Business Systems Development Analyst', 'Modern Acadmy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 596, 'object-oriented', 'Speech Pathologist', 'University of Phoenix');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 508, 'project', 'Civil Engineer', 'Hillsdale College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 338, 'product', 'Clinical Specialist', 'Ecole Universitaire dIngénieurs de Lille');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 768, 'asynchronous', 'Actuary', 'University of Piraeus');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 519, 'system engine', 'Media Manager IV', 'Russian Customs Academy, Vladivostok Branch"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 368, 'mission-critical', 'Web Developer I', 'Universidad de Montevideo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 349, 'Programmable', 'Speech Pathologist', 'China youth college for political science');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 316, 'software', 'Graphic Designer', 'Belarussian State Polytechnical Academy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 863, 'productivity', 'Dental Hygienist', 'Université de Kinshasa');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 140, 'Integrated', 'Office Assistant III', 'Technological University (Pinlon)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 868, 'didactic', 'Software Test Engineer IV', 'Gubkin Russian State University of Oil and Gas');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 628, 'De-engineered', 'Electrical Engineer', 'Whitworth College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 620, 'attitude', 'Financial Advisor', 'Université Notre Dame dHaïti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 784, 'Robust', 'Assistant Media Planner', 'Universidad Católica de Santa Fé');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 832, 'Open-source', 'Data Coordiator', 'Universitat de Lleida');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 346, 'Implemented', 'Administrative Officer', 'Ripon College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 33, 'Grass-roots', 'Office Assistant IV', 'Kuzbass State Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 172, 'workforce', 'Office Assistant III', 'Komazawa University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 465, 'Polarised', 'Occupational Therapist', 'University of Tennessee - Martin');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 359, 'dynamic', 'Legal Assistant', 'Ferris State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 659, 'Integrated', 'Human Resources Assistant II', 'Monash University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 373, 'mobile', 'Dental Hygienist', 'Karnataka State Law University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 526, 'Mandatory', 'Design Engineer', 'Universidad Metropolitana Latin Campus');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 635, 'installation', 'Clinical Specialist', 'Carl von Ossietzky Universität Oldenburg');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 86, 'Cross-platform', 'Software Engineer III', 'King Mongkuts University of Technology North Bangkok');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 824, 'pricing structure', 'Payment Adjustment Coordinator', 'Fundação Educacional de Ituverava');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 385, 'Digitized', 'Actuary', 'Lasell College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 9, 'Implemented', 'Recruiter', 'University of Engineering and Technology Peshawar');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 713, 'De-engineered', 'Structural Analysis Engineer', 'Universidad de La Salle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 139, '4th generation', 'Information Systems Manager', 'Riga Technical University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 28, 'Self-enabling', 'Physical Therapy Assistant', 'Technological University of Podillya');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 28, 'Fundamental', 'Teacher', 'Astrakhan State University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 233, 'real-time', 'Engineer I', 'Universidad Federico Henríquez y Carvajal');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 232, 'Programmable', 'Nurse', 'Korea Advanced Institute of Science & Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 479, 'Configurable', 'Account Executive', 'College of Osteopathic Medicine of the Pacific (Western University of Health Sciences)');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 509, 'exuding', 'Help Desk Technician', 'Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung"');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 475, 'Function-based', 'Nurse', 'St Clements University - Higher Education School');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 285, 'Fully-configurable', 'Community Outreach Specialist', 'Karwan Institute of Higher Education');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 764, 'knowledge base', 'Project Manager', 'Valley View University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 275, 'groupware', 'Programmer IV', 'Universitas Sanata Dharma');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 857, 'Sharable', 'Research Associate', 'Hokkaido Tokai University');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 632, 'artificial intelligence', 'Geological Engineer', 'Instituts Supérieurs de Formation des Maîtres');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 143, 'project', 'Geologist I', 'Humphreys College');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 80, 'productivity', 'Product Engineer', 'Universidad Francisco de Vitoria');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 877, 'Graphic Interface', 'Product Engineer', 'Lappeenranta University of Technology');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 309, 'local', 'Design Engineer', 'Lorestan University of Medical Sciences');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 25, 'circuit', 'Developer IV', 'Wordware');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 22, 'Profit-focused', 'Marketing Assistant', 'Twiyo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 141, 'application', 'Community Outreach Specialist', 'Browseblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 741, 'Ameliorated', 'Registered Nurse', 'Skivee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 212, 'monitoring', 'Account Coordinator', 'Ainyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 142, 'Compatible', 'Account Representative II', 'Podcat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 489, 'attitude-oriented', 'Software Engineer III', 'Tagfeed');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 192, 'high-level', 'Occupational Therapist', 'Riffpath');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 254, 'Open-architected', 'Senior Editor', 'Photolist');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 76, 'Face to face', 'Account Coordinator', 'Brainsphere');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 181, 'instruction set', 'Financial Analyst', 'Browseblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 468, 'Ergonomic', 'Financial Advisor', 'Realfire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 142, 'Secured', 'Environmental Tech', 'Skinte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 534, '4th generation', 'Teacher', 'Yoveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 827, '3rd generation', 'Systems Administrator IV', 'Wordware');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 270, 'functionalities', 'Tax Accountant', 'Jaxnation');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 177, 'firmware', 'VP Accounting', 'Twinte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 126, 'logistical', 'VP Quality Control', 'Zoonoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 559, 'Pre-emptive', 'Community Outreach Specialist', 'Quatz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 810, 'responsive', 'Data Coordiator', 'Gevee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 72, 'Business-focused', 'Analyst Programmer', 'Oyonder');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 743, 'focus group', 'Accounting Assistant IV', 'Nlounge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 172, 'Vision-oriented', 'Engineer I', 'Livefish');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 68, 'Polarised', 'Paralegal', 'Tazz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 662, 'website', 'Statistician III', 'Edgeblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 658, 'asynchronous', 'Automation Specialist IV', 'Jabberbean');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 159, 'well-modulated', 'Research Assistant II', 'Oozz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 745, 'well-modulated', 'Chemical Engineer', 'Topicshots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 839, 'hierarchy', 'Staff Scientist', 'Yakidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 81, 'client-driven', 'Research Assistant III', 'Oyoloo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 520, 'Advanced', 'VP Quality Control', 'Twitterwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 81, 'time-frame', 'Design Engineer', 'Tazz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 377, 'Robust', 'GIS Technical Architect', 'Yakitri');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 232, 'web-enabled', 'Marketing Assistant', 'Thoughtworks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 666, 'benchmark', 'Project Manager', 'Yakitri');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 220, 'Robust', 'Biostatistician IV', 'Aibox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 857, 'national', 'Financial Advisor', 'Brainbox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 498, 'mobile', 'Research Associate', 'Meemm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 612, 'global', 'VP Quality Control', 'Kayveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 845, 'non-volatile', 'Occupational Therapist', 'Kanoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 603, 'artificial intelligence', 'Data Coordiator', 'Jetwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 86, 'middleware', 'Financial Advisor', 'Rhynyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 834, 'challenge', 'Research Associate', 'Geba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 289, 'Triple-buffered', 'Administrative Assistant II', 'Voomm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 122, 'intermediate', 'Web Designer I', 'Rhynyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 404, 'archive', 'Accounting Assistant I', 'Reallinks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 13, 'Fully-configurable', 'Financial Advisor', 'Aivee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 362, 'focus group', 'Electrical Engineer', 'Shuffledrive');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 792, 'homogeneous', 'Quality Engineer', 'Jayo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 746, 'website', 'Occupational Therapist', 'Camimbo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 271, 'solution', 'Structural Analysis Engineer', 'Trupe');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 383, 'Synchronised', 'Nurse Practicioner', 'Meejo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 225, 'software', 'Editor', 'Mydeo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 654, 'Front-line', 'VP Quality Control', 'Camido');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 457, 'secured line', 'GIS Technical Architect', 'Quinu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 381, 'Self-enabling', 'Data Coordiator', 'Realbuzz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 586, 'foreground', 'Environmental Tech', 'Skyble');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 177, 'Optimized', 'Senior Cost Accountant', 'Livetube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 540, 'encoding', 'Structural Engineer', 'Innojam');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 778, 'encompassing', 'Chief Design Engineer', 'Rhyzio');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 621, 'attitude', 'Account Executive', 'Shufflester');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 348, 'Total', 'Marketing Manager', 'Oloo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 847, 'structure', 'Marketing Manager', 'Photojam');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 405, 'fault-tolerant', 'Automation Specialist I', 'Wordware');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 631, 'forecast', 'Statistician III', 'Realblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 271, 'Multi-tiered', 'Marketing Assistant', 'Abata');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 533, 'optimizing', 'Human Resources Manager', 'Riffpedia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 307, 'Cross-group', 'Recruiter', 'Bluejam');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 28, 'Customizable', 'Environmental Specialist', 'Gigashots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 851, 'Customizable', 'Pharmacist', 'Flashspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 490, 'Triple-buffered', 'Recruiting Manager', 'Zoonoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 496, 'Enterprise-wide', 'Internal Auditor', 'Ainyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 37, 'cohesive', 'Cost Accountant', 'Skyba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 158, 'tangible', 'Mechanical Systems Engineer', 'Rhybox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 838, 'customer loyalty', 'Staff Accountant I', 'Chatterbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 251, 'array', 'Recruiter', 'Skinder');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 150, 'process improvement', 'Nurse', 'Dynava');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 721, 'Reverse-engineered', 'Librarian', 'Brainbox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 475, 'Integrated', 'Compensation Analyst', 'Devcast');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 455, 'initiative', 'Junior Executive', 'Zoomcast');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 134, 'Persevering', 'Desktop Support Technician', 'Quimba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 91, 'help-desk', 'Sales Associate', 'LiveZ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 38, 'standardization', 'Project Manager', 'Kimia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 149, 'utilisation', 'Senior Developer', 'Yodoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 106, 'local', 'Marketing Assistant', 'Realfire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 606, 'client-driven', 'Registered Nurse', 'Shuffledrive');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 522, 'challenge', 'Analog Circuit Design manager', 'Shufflebeat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 411, 'Diverse', 'Automation Specialist III', 'Wordtune');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 800, 'superstructure', 'Sales Associate', 'DabZ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 699, 'Open-source', 'Dental Hygienist', 'Abata');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 280, 'eco-centric', 'Senior Cost Accountant', 'Bubblebox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 239, 'Programmable', 'Dental Hygienist', 'Linkbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 780, 'contingency', 'Environmental Specialist', 'Mydo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 603, 'Distributed', 'Graphic Designer', 'Cogibox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 195, 'task-force', 'Teacher', 'Meevee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 784, 'next generation', 'Senior Quality Engineer', 'Edgeblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 888, 'support', 'Nurse Practicioner', 'Mynte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 550, 'Vision-oriented', 'Business Systems Development Analyst', 'Jaxnation');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 162, 'initiative', 'Cost Accountant', 'Yakitri');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 624, 'Visionary', 'Systems Administrator III', 'Skyba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 883, 'User-centric', 'VP Product Management', 'Brainbox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 262, 'exuding', 'Electrical Engineer', 'Quaxo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 777, 'Graphic Interface', 'Marketing Assistant', 'Skipfire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 834, 'Quality-focused', 'Biostatistician III', 'Quatz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 149, 'Persevering', 'Marketing Assistant', 'Flashspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 688, 'Configurable', 'Senior Editor', 'Divape');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 42, 'Open-architected', 'Database Administrator III', 'Ailane');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 476, 'Assimilated', 'Assistant Media Planner', 'Buzzshare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 509, 'Optional', 'Recruiting Manager', 'Babblestorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 68, 'policy', 'Computer Systems Analyst III', 'Vinte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 623, 'exuding', 'Safety Technician III', 'Thoughtstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 406, 'Virtual', 'Senior Developer', 'Devify');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 887, 'multi-state', 'Associate Professor', 'Lazzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 861, 'Mandatory', 'Sales Associate', 'Ntag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 887, 'structure', 'Tax Accountant', 'Flashspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 29, 'discrete', 'Sales Associate', 'Twinder');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 704, 'Automated', 'Financial Advisor', 'Omba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 354, 'projection', 'Human Resources Manager', 'Browsecat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 531, '5th generation', 'Registered Nurse', 'Cogidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 783, 'Integrated', 'Assistant Manager', 'Thoughtmix');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 586, 'Centralized', 'Nurse Practicioner', 'Brainsphere');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 542, 'Customer-focused', 'Desktop Support Technician', 'Jayo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 349, 'Reduced', 'GIS Technical Architect', 'Rhybox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 503, 'homogeneous', 'Assistant Media Planner', 'Voolia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 530, 'leading edge', 'Senior Financial Analyst', 'Tagchat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 821, 'Profit-focused', 'Tax Accountant', 'Riffpedia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 518, 'high-level', 'Tax Accountant', 'Einti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 563, 'object-oriented', 'Legal Assistant', 'Yodoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 807, 'leverage', 'Staff Accountant III', 'Avaveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 345, 'secured line', 'Computer Systems Analyst I', 'Minyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 115, 'forecast', 'Structural Analysis Engineer', 'Skidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 445, 'hub', 'Electrical Engineer', 'Wordpedia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 649, 'Reduced', 'Paralegal', 'Camido');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 423, 'pricing structure', 'Teacher', 'Yadel');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 373, 'secured line', 'Librarian', 'Kamba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 190, 'global', 'Geological Engineer', 'Brainbox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 749, 'middleware', 'General Manager', 'Zoovu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 817, '24 hour', 'Assistant Professor', 'Devbug');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 203, 'leverage', 'Engineer III', 'Wordify');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 268, 'system-worthy', 'Sales Representative', 'Youspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 646, 'cohesive', 'Environmental Tech', 'Divavu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 689, 'data-warehouse', 'Web Designer II', 'Trilia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 110, 'motivating', 'Director of Sales', 'Linkbuzz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 628, 'asymmetric', 'Nurse', 'Browsezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 343, 'responsive', 'Research Associate', 'Realbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 486, '4th generation', 'Biostatistician IV', 'Skimia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 890, 'encompassing', 'Compensation Analyst', 'Buzzshare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 5, 'standardization', 'Structural Analysis Engineer', 'Tanoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 401, 'Graphical User Interface', 'Assistant Professor', 'Trunyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 641, 'fresh-thinking', 'Professor', 'Kamba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 539, 'encoding', 'Teacher', 'Oyope');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 274, 'strategy', 'Safety Technician I', 'Chatterpoint');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 180, 'Multi-channelled', 'Senior Editor', 'Fivebridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 39, 'Monitored', 'Senior Quality Engineer', 'Wordify');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 424, 'internet solution', 'Pharmacist', 'Oyoba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 615, 'Function-based', 'Media Manager I', 'Zoombeat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 758, 'Open-source', 'Compensation Analyst', 'Voonder');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 417, 'infrastructure', 'Computer Systems Analyst II', 'Leenti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 451, 'system engine', 'Senior Developer', 'Riffwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 371, 'open system', 'Geologist I', 'Realcube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 29, 'core', 'Quality Engineer', 'Twitterbeat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 719, 'Enhanced', 'Programmer Analyst II', 'Photobug');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 731, 'bandwidth-monitored', 'Product Engineer', 'Thoughtstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 841, 'orchestration', 'Biostatistician III', 'Eare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 754, 'Persistent', 'Safety Technician II', 'Abatz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 267, 'Intuitive', 'Mechanical Systems Engineer', 'Voomm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 649, '24-jul', 'Web Developer IV', 'Meedoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 690, 'migration', 'Quality Control Specialist', 'Skilith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 439, 'system engine', 'Operator', 'Chatterbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 167, 'Function-based', 'Internal Auditor', 'Browsetype');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 189, 'stable', 'Administrative Assistant IV', 'Thoughtstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 604, 'Focused', 'Technical Writer', 'Tagcat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 264, 'Reduced', 'Executive Secretary', 'Devshare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 302, 'Re-contextualized', 'Senior Financial Analyst', 'Eamia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 752, 'encoding', 'Actuary', 'Devpulse');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 604, 'methodology', 'VP Marketing', 'Tagpad');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 384, 'client-server', 'Editor', 'Tagchat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 251, 'task-force', 'Speech Pathologist', 'Ailane');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 523, 'info-mediaries', 'Physical Therapy Assistant', 'Yakijo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 124, 'zero administration', 'Nurse Practicioner', 'Skilith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 416, 'Secured', 'Help Desk Technician', 'Aimbo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 307, 'Synchronised', 'Safety Technician III', 'Gabcube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 387, 'global', 'Administrative Assistant IV', 'Bubblemix');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 765, 'non-volatile', 'VP Accounting', 'Edgeblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 181, 'Proactive', 'VP Accounting', 'Meedoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 682, 'real-time', 'Software Engineer IV', 'Shuffletag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 383, 'mobile', 'Office Assistant IV', 'Camimbo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 406, 'framework', 'Senior Editor', 'Photobean');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 699, '5th generation', 'Web Developer II', 'Jetwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 665, 'superstructure', 'Chemical Engineer', 'Trudoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 678, 'hierarchy', 'Editor', 'Topicblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 502, 'contextually-based', 'Food Chemist', 'Demimbu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 615, 'definition', 'VP Marketing', 'Tambee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 21, 'service-desk', 'Cost Accountant', 'Skinix');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 883, 'encoding', 'General Manager', 'Divavu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 713, 'Function-based', 'Nuclear Power Engineer', 'Gigaclub');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 578, 'budgetary management', 'Help Desk Technician', 'Talane');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 510, 'firmware', 'Automation Specialist III', 'Flashpoint');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 746, 'Versatile', 'Software Engineer II', 'Oozz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 899, 'Configurable', 'VP Marketing', 'Fatz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 87, 'projection', 'Occupational Therapist', 'Oodoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 640, 'ability', 'Systems Administrator IV', 'Blogtag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 348, 'motivating', 'Graphic Designer', 'Gabvine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 95, 'Managed', 'Civil Engineer', 'Voolith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 672, 'Mandatory', 'VP Sales', 'Twiyo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 35, 'Reactive', 'Research Nurse', 'Topdrive');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 103, 'policy', 'Analyst Programmer', 'Skiptube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 140, 'Organic', 'Safety Technician IV', 'Zoovu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 845, 'matrices', 'Chemical Engineer', 'Realbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 448, 'initiative', 'Information Systems Manager', 'Zooveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 338, 'model', 'Research Nurse', 'LiveZ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 539, 'secured line', 'Teacher', 'Minyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 270, 'encompassing', 'Editor', 'Realcube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 216, 'client-driven', 'Senior Developer', 'Aimbu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 631, 'Cross-platform', 'Programmer I', 'Topiczoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 594, 'Integrated', 'Health Coach I', 'Jabbersphere');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 300, 'Managed', 'Junior Executive', 'Yakijo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 699, 'static', 'Computer Systems Analyst III', 'Yakijo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 443, 'success', 'Office Assistant I', 'Edgetag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 858, 'Profound', 'Safety Technician I', 'Tambee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 647, 'contextually-based', 'Payment Adjustment Coordinator', 'Oba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 843, 'Synergized', 'Media Manager IV', 'Mydo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 498, 'dedicated', 'Operator', 'Fivespan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 327, 'client-server', 'Accountant IV', 'Jaloo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 675, 'capacity', 'Account Coordinator', 'Bubbletube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 778, 'next generation', 'Programmer Analyst II', 'Myworks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 640, 'throughput', 'Technical Writer', 'Skynoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 444, 'initiative', 'Marketing Assistant', 'Buzzdog');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 169, 'alliance', 'Statistician III', 'Agivu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 161, 'workforce', 'Human Resources Assistant III', 'Oyope');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 444, 'monitoring', 'Design Engineer', 'Topiclounge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 793, 'approach', 'Programmer III', 'Eazzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 262, 'Networked', 'Engineer IV', 'Skyndu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 169, 'interactive', 'Information Systems Manager', 'Yodoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 239, 'Future-proofed', 'Web Designer I', 'Rooxo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 54, 'Future-proofed', 'Social Worker', 'Wikizz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 782, 'logistical', 'Physical Therapy Assistant', 'Shuffletag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 620, 'attitude-oriented', 'Dental Hygienist', 'Yoveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 313, 'empowering', 'Data Coordiator', 'Babblestorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 474, 'standardization', 'Sales Representative', 'Linkbuzz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 321, 'regional', 'Quality Control Specialist', 'Bluezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 260, 'non-volatile', 'Research Assistant I', 'Tazz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 639, 'Ergonomic', 'Chief Design Engineer', 'Zoomdog');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 130, 'moratorium', 'Pharmacist', 'Vimbo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 753, 'database', 'Web Developer I', 'Browsecat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 780, 'attitude', 'Accounting Assistant I', 'Skynoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 813, 'bifurcated', 'Health Coach III', 'Quimba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 42, 'focus group', 'Sales Representative', 'Eazzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 595, 'attitude', 'Graphic Designer', 'Muxo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 263, 'human-resource', 'Compensation Analyst', 'Mudo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 554, 'Proactive', 'Accounting Assistant I', 'Meeveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 708, 'Compatible', 'Assistant Professor', 'Eidel');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 623, 'protocol', 'Senior Quality Engineer', 'Topicblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 479, 'policy', 'Media Manager I', 'Blogtag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 38, 'Fully-configurable', 'Desktop Support Technician', 'Riffwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 487, 'Devolved', 'Associate Professor', 'Camido');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 214, '6th generation', 'Senior Cost Accountant', 'Youspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 732, 'user-facing', 'Executive Secretary', 'Voomm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 873, 'Progressive', 'Assistant Manager', 'Jayo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 513, 'forecast', 'Business Systems Development Analyst', 'Quinu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 433, 'Centralized', 'Compensation Analyst', 'Mynte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 133, 'bandwidth-monitored', 'Compensation Analyst', 'Jaxworks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 161, 'client-driven', 'Geological Engineer', 'Katz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 293, 'system-worthy', 'Civil Engineer', 'Reallinks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 477, 'Profit-focused', 'Quality Engineer', 'Zoombeat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 390, 'software', 'Clinical Specialist', 'Gabspot');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 77, 'bifurcated', 'Legal Assistant', 'Zoomlounge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 542, 'Compatible', 'Graphic Designer', 'Babbleopia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 891, 'Distributed', 'Information Systems Manager', 'Twitterworks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 57, 'heuristic', 'Nurse Practicioner', 'Voolith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 122, 'demand-driven', 'Assistant Professor', 'BlogXS');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 181, 'Customer-focused', 'Human Resources Assistant I', 'Leenti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 161, 'task-force', 'Media Manager III', 'Feedspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 459, 'web-enabled', 'Chief Design Engineer', 'Brainlounge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 493, 'encryption', 'Financial Analyst', 'Photospace');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 329, 'fresh-thinking', 'GIS Technical Architect', 'Browsezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 280, 'mission-critical', 'Business Systems Development Analyst', 'Meetz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 251, 'emulation', 'Senior Sales Associate', 'Vitz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 611, 'approach', 'Occupational Therapist', 'Innotype');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 512, 'demand-driven', 'Media Manager III', 'Aimbu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 484, 'neutral', 'Compensation Analyst', 'Vidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 549, 'methodology', 'Nurse Practicioner', 'Rhyloo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 816, 'Persistent', 'Structural Analysis Engineer', 'Cogilith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 659, 'well-modulated', 'Structural Engineer', 'Shuffletag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 775, 'focus group', 'Sales Representative', 'Gabtune');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 545, 'Phased', 'Research Nurse', 'Mycat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 480, 'holistic', 'Chief Design Engineer', 'Leexo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 795, 'approach', 'Speech Pathologist', 'Gigashots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 851, 'local', 'Quality Control Specialist', 'Browseblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 121, 'task-force', 'GIS Technical Architect', 'Skipstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 867, 'Enterprise-wide', 'Legal Assistant', 'Dynabox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 491, 'task-force', 'Account Coordinator', 'Tazz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 30, 'customer loyalty', 'Environmental Tech', 'Layo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 688, 'capability', 'Product Engineer', 'Katz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 346, 'encoding', 'Professor', 'Blogtags');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 387, 'composite', 'Data Coordiator', 'Skajo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 437, 'core', 'Graphic Designer', 'Kayveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 470, 'orchestration', 'Geologist III', 'Skyvu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 490, 'forecast', 'Account Coordinator', 'Photojam');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 656, 'middleware', 'Financial Analyst', 'Yata');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 800, 'capacity', 'Help Desk Operator', 'Centizu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 707, 'middleware', 'Sales Associate', 'Centimia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 737, 'foreground', 'Legal Assistant', 'Flipbug');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 407, 'Expanded', 'VP Product Management', 'Wikibox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 825, 'Ameliorated', 'Assistant Professor', 'Realmix');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 762, 'Public-key', 'Database Administrator III', 'Jetwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 325, 'content-based', 'Automation Specialist IV', 'Katz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 880, 'reciprocal', 'Analog Circuit Design manager', 'Zoomlounge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 105, 'implementation', 'Programmer Analyst IV', 'Blognation');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 270, 'Expanded', 'Senior Quality Engineer', 'Yadel');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 543, 'product', 'Information Systems Manager', 'Quamba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 876, 'contextually-based', 'Engineer III', 'Yodo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 363, 'database', 'Compensation Analyst', 'Tekfly');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 585, 'Stand-alone', 'Senior Editor', 'Feedfish');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 708, 'disintermediate', 'Information Systems Manager', 'Twinte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 582, 'Realigned', 'Developer II', 'Eazzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 598, 'next generation', 'Information Systems Manager', 'Kayveo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 691, 'intermediate', 'Senior Cost Accountant', 'Bluezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 83, 'Face to face', 'Sales Representative', 'Topicshots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 295, 'Front-line', 'Research Nurse', 'Zoonoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 728, '6th generation', 'Director of Sales', 'Eimbee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 409, 'optimizing', 'Administrative Assistant III', 'Topicstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 501, 'Open-architected', 'Statistician III', 'Zoomzone');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 482, 'Compatible', 'Analyst Programmer', 'Snaptags');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 326, 'Ameliorated', 'Sales Associate', 'JumpXS');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 148, 'dedicated', 'Professor', 'Divanoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 479, 'intangible', 'Registered Nurse', 'Eabox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 820, 'Triple-buffered', 'Electrical Engineer', 'Babbleset');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 119, 'Re-contextualized', 'Quality Engineer', 'Gabspot');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 337, 'data-warehouse', 'Assistant Media Planner', 'Gigashots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 169, 'attitude-oriented', 'Environmental Tech', 'Kare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 120, 'systemic', 'Information Systems Manager', 'Kare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 575, 'Seamless', 'Marketing Assistant', 'Roodel');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 681, 'Future-proofed', 'Desktop Support Technician', 'Cogidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 695, 'discrete', 'Junior Executive', 'Tagtune');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 849, 'Multi-channelled', 'Physical Therapy Assistant', 'Browsecat');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 454, 'Function-based', 'Account Executive', 'Voolith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 128, 'model', 'Senior Editor', 'Oyoba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 792, 'help-desk', 'Engineer II', 'Ntags');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 167, 'Function-based', 'Cost Accountant', 'Blognation');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 874, 'Exclusive', 'Safety Technician IV', 'Meembee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 734, 'matrix', 'Professor', 'Skimia');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 109, 'intermediate', 'Business Systems Development Analyst', 'Thoughtbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 472, 'neural-net', 'Recruiter', 'Brainbox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 565, 'bottom-line', 'Web Designer III', 'Yakijo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 580, 'portal', 'Compensation Analyst', 'Edgeclub');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 616, 'Innovative', 'Financial Analyst', 'Zoomzone');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 495, 'customer loyalty', 'Occupational Therapist', 'Skalith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 736, 'Persistent', 'Librarian', 'Thoughtworks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 128, 'Versatile', 'Nuclear Power Engineer', 'Browsezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 581, 'Multi-channelled', 'Mechanical Systems Engineer', 'Dabtype');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 563, 'Reduced', 'Teacher', 'Blogtags');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 792, 'grid-enabled', 'VP Sales', 'Photobean');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 781, 'Cross-platform', 'Analyst Programmer', 'Fadeo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 52, 'analyzer', 'Marketing Manager', 'Demimbu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 891, 'Centralized', 'GIS Technical Architect', 'Voonyx');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 526, 'Robust', 'Biostatistician IV', 'Einti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 309, 'Synergistic', 'Nurse', 'Browsetype');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 843, '4th generation', 'GIS Technical Architect', 'Bubblebox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 106, 'user-facing', 'Staff Scientist', 'Skalith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 105, 'Reverse-engineered', 'Paralegal', 'Rooxo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 891, 'Future-proofed', 'General Manager', 'Cogidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 881, 'Total', 'Pharmacist', 'Wikido');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 393, 'implementation', 'VP Accounting', 'Avavee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 515, 'Balanced', 'Developer IV', 'Yombu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 241, 'success', 'VP Marketing', 'Gigazoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 524, 'Triple-buffered', 'Analyst Programmer', 'Yakijo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 672, 'time-frame', 'Administrative Officer', 'Plajo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 398, 'Fundamental', 'Programmer Analyst III', 'Flashspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 26, 'Fundamental', 'Senior Cost Accountant', 'Camido');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 745, 'De-engineered', 'Software Consultant', 'Eadel');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 28, 'Automated', 'Marketing Assistant', 'Centidel');
+
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 487, 'time-frame', 'Clinical Specialist', 'Avamm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 697, 'Self-enabling', 'Chemical Engineer', 'Livetube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 417, 'asymmetric', 'Legal Assistant', 'Jabberstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 728, 'actuating', 'Automation Specialist III', 'Devpoint');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 388, 'structure', 'Senior Editor', 'Viva');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 165, 'tertiary', 'Speech Pathologist', 'Eadel');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 419, 'Customizable', 'Developer I', 'Zoovu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 87, 'multi-state', 'VP Accounting', 'Twimbo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 394, 'Expanded', 'Senior Quality Engineer', 'Kwilith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 14, 'process improvement', 'VP Sales', 'Dynazzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 451, 'Extended', 'Web Developer IV', 'Livefish');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 436, 'Polarised', 'Cost Accountant', 'Jazzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 843, 'composite', 'VP Marketing', 'Youspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 417, 'cohesive', 'Human Resources Manager', 'Lazz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 462, 'neutral', 'Developer II', 'Skipstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 651, 'object-oriented', 'Software Test Engineer I', 'Eire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 465, 'explicit', 'Financial Advisor', 'Mita');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 802, 'static', 'Desktop Support Technician', 'Voonte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 689, 'Up-sized', 'Financial Advisor', 'Babbleblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 232, 'intangible', 'Quality Engineer', 'Shuffledrive');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 308, 'Streamlined', 'Administrative Officer', 'Realcube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 76, 'Cross-group', 'Staff Accountant II', 'Twimbo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 887, 'Virtual', 'Accountant II', 'Linklinks');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 661, 'analyzer', 'Administrative Officer', 'JumpXS');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 499, 'interface', 'Chemical Engineer', 'Mydo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 154, 'Programmable', 'Teacher', 'Topicblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 369, 'array', 'Payment Adjustment Coordinator', 'Topicblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 400, 'exuding', 'Food Chemist', 'Ailane');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 174, 'Phased', 'Registered Nurse', 'Livetube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 798, 'fault-tolerant', 'Financial Analyst', 'Realmix');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 253, 'dedicated', 'Database Administrator III', 'Kwideo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 411, 'User-centric', 'Media Manager I', 'Linktype');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 878, 'Cross-platform', 'Librarian', 'Oyoyo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 607, 'utilisation', 'Financial Advisor', 'Divavu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 855, 'Customer-focused', 'Human Resources Manager', 'Rhybox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 657, 'Exclusive', 'Mechanical Systems Engineer', 'Oyoloo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 290, 'Total', 'Legal Assistant', 'Youspan');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 862, 'Universal', 'Health Coach III', 'Fadeo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 242, 'user-facing', 'VP Product Management', 'BlogXS');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 619, 'definition', 'Programmer II', 'Edgepulse');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 348, 'Quality-focused', 'Design Engineer', 'Topdrive');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 464, 'encryption', 'Web Designer I', 'Thoughtsphere');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 836, 'value-added', 'Recruiting Manager', 'Aivee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 321, 'Streamlined', 'Assistant Professor', 'Blogtag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 284, 'protocol', 'Recruiter', 'Yacero');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 104, '24-jul', 'Graphic Designer', 'Izio');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 31, 'object-oriented', 'Dental Hygienist', 'Rhynoodle');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 68, 'Visionary', 'Biostatistician II', 'Twitterbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 608, 'contingency', 'Senior Financial Analyst', 'Blogtag');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 53, 'stable', 'Actuary', 'Blognation');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 450, 'time-frame', 'Financial Advisor', 'Wikibox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 204, 'content-based', 'Engineer IV', 'Kazio');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 536, 'Business-focused', 'Business Systems Development Analyst', 'Gigashots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 854, '6th generation', 'Executive Secretary', 'Zoonder');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 52, 'systemic', 'Human Resources Manager', 'Gigashots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 559, 'hierarchy', 'Internal Auditor', 'Riffpath');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 850, 'object-oriented', 'Recruiting Manager', 'Livetube');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 748, 'Enhanced', 'Software Test Engineer III', 'Pixope');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 27, 'Secured', 'Financial Analyst', 'Dabfeed');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 437, 'knowledge base', 'Research Nurse', 'Zazio');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 133, 'modular', 'Assistant Professor', 'Skaboo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 900, 'application', 'Assistant Media Planner', 'Browsezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 754, 'architecture', 'Paralegal', 'Avamba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 210, 'system engine', 'Media Manager II', 'Dabjam');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 594, 'full-range', 'Research Nurse', 'Wordtune');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 884, 'bandwidth-monitored', 'Research Nurse', 'Omba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 612, 'Front-line', 'VP Accounting', 'Yotz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 104, 'holistic', 'Geological Engineer', 'Dabshots');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 468, 'multimedia', 'VP Product Management', 'Devbug');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 56, 'function', 'Data Coordiator', 'Camido');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 896, 'Persevering', 'Assistant Professor', 'Thoughtbridge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 267, 'Right-sized', 'VP Marketing', 'Buzzshare');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 217, 'exuding', 'VP Accounting', 'Yodoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 94, 'neutral', 'Occupational Therapist', 'Feedbug');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 244, 'Enhanced', 'Assistant Professor', 'Dabtype');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 37, 'benchmark', 'Registered Nurse', 'Meezzy');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 285, 'tertiary', 'Help Desk Technician', 'Skidoo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 361, 'matrix', 'Computer Systems Analyst II', 'Twinder');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 465, 'Self-enabling', 'VP Product Management', 'Mynte');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 89, 'Graphical User Interface', 'Sales Associate', 'Devcast');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 636, 'content-based', 'Desktop Support Technician', 'Dabfeed');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 94, 'Seamless', 'Accounting Assistant I', 'Thoughtstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 279, 'application', 'Payment Adjustment Coordinator', 'Meevee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 383, 'Customizable', 'Mechanical Systems Engineer', 'Babbleblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 616, 'Implemented', 'Engineer III', 'Oloo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 461, 'Up-sized', 'Civil Engineer', 'Dabvine');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 542, 'infrastructure', 'Health Coach III', 'Browsebug');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 677, 'Decentralized', 'Web Designer II', 'Browsedrive');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 447, 'content-based', 'VP Quality Control', 'Skilith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 131, 'transitional', 'Biostatistician I', 'Topicstorm');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 514, 'Robust', 'Professor', 'Bluezoom');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 320, 'eco-centric', 'General Manager', 'Zoomlounge');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 639, 'Seamless', 'Senior Developer', 'Yodo');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 423, 'object-oriented', 'Nurse', 'Quatz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 134, 'analyzing', 'Recruiter', 'Vitz');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 424, 'intranet', 'Mechanical Systems Engineer', 'Einti');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 350, 'matrix', 'Engineer II', 'Oba');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 106, 'process improvement', 'Assistant Professor', 'Riffwire');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 782, 'Balanced', 'Food Chemist', 'Dazzlesphere');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 253, 'array', 'Project Manager', 'Realblab');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 896, 'Multi-layered', 'Junior Executive', 'Talane');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 278, 'Streamlined', 'Professor', 'Rhybox');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 332, 'Devolved', 'Programmer IV', 'Cogilith');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('educational experience', 115, 'next generation', 'Internal Auditor', 'Meevee');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 410, 'human-resource', 'Director of Sales', 'Oyondu');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 346, 'Universal', 'Operator', 'LiveZ');
+INSERT INTO dbo.experiences (type, id_employee, description, degree, entity) VALUES ('work experience', 334, 'asymmetric', 'Registered Nurse', 'InnoZ');
