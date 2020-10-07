@@ -15,3 +15,5 @@ CREATE TABLE dbo.user_likes
 	CONSTRAINT FK_USER_LIKES_ID_POST FOREIGN KEY(id_post) REFERENCES wedeal.dbo.posts(id),
 );
 GO
+
+//ADD CONSTRAINT PK_USER_LIKE_ID PRIMARY KEY (id_post, id_user);
