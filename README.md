@@ -1,6 +1,9 @@
 ### WESCIPTS
 
+##### DataBase Management System: SQL SERVER
+
 This section shows the files needed to set up the database used in the project
+
 
 ### Create schema
 
