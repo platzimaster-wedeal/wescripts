@@ -10,7 +10,7 @@ CREATE TABLE dbo.scores
 	id INT NOT NULL IDENTITY(1,1),
 	id_employer INT NOT NULL,
 	id_empoyee INT NOT NULL,
-	[qualification] INT NOT NULL DEFAULT 0,
+	[qualification] DECIMAL(2,1) NOT NULL ,
 	[comment] VARCHAR(250) NOT NULL DEFAULT '',
 	CONSTRAINT PK_SCORE_ID PRIMARY KEY(id),
 	CONSTRAINT FK_SCORE_ID_EMPLOYER FOREIGN KEY(id_employer) REFERENCES wedeal.dbo.employers(id),

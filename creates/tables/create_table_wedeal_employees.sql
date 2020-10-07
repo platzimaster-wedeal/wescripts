@@ -8,7 +8,9 @@ CREATE TABLE [dbo].[employees](
 	id INT NOT NULL IDENTITY(1,1),
 	[id_user] [int] NOT NULL,
 	id_work_area INT NOT NULL,
-	
+	avg_score DECIMAL(2,1) NOT NULL DEFAULT 0,
+	quealifications DECIMAL(2,1) NOT NULL,
+
  CONSTRAINT [PK_EMPLOYEES_ID] PRIMARY KEY CLUSTERED 
 (
 	[id] ASC
